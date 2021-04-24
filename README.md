@@ -6,7 +6,7 @@ description: >-
 
 # Wallet Now
 
-**Wallet Now** consolidates all your crypto investments from multiple sources and aggregates in an easy to use format.
+**Wallet Now** consolidates all your crypto investments from multiple sources and aggregates in an easy to use format. Check it out now for free on [https://walletnow.net](https://walletnow.net)
 
 Check out some of our features:
 
