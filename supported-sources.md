@@ -35,7 +35,7 @@ Would you like to request support for a new protocol? You can open a request [he
 
 | Name | Description |
 | :--- | :--- |
-| Binance Exchange | You can connect your Binance Exchange account to Wallet Now in order to see all your Binance investements consolidated along with DeFi and others. Read more about it **here**. |
+| Binance Exchange | You can connect your Binance Exchange account to Wallet Now in order to see all your Binance investements consolidated along with DeFi and others. Read more about it [**here**](features/binance-exchange-integration.md). |
 | Custom Investments | You can manually register investments in any unsupported location \(even other chains\). Read more about it **here**. |
 
 
