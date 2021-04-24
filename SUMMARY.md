@@ -6,4 +6,5 @@
 ## Features
 
 * [Binance Exchange Integration](features/binance-exchange-integration.md)
+* [Custom Investments](features/custom-investments.md)
 
