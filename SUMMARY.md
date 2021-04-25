@@ -12,6 +12,7 @@
 * [Telegram Bot](features/telegram-bot.md)
 * [Active Monitoring](features/active-monitoring.md)
 * [Multiple Wallets](features/multiple-wallets.md)
+* [Privacy Lock](features/privacy-lock.md)
 
 ## Coming soon
 
