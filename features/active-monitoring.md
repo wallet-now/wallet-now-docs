@@ -6,10 +6,14 @@ When you enable active monitoring, you will be automatically notified if there i
 
 ```text
 🤖 Wallet Now Bot:
-== Active Monitoring ==
- - Good news: Detected a price increase of 6.0% for token BNB.
-   The current price is $507.15
- - Detected a price drop of 9.2% for token SWAMP. The current price is $52.45
+Wallet Now Active Monitoring
+Important changes last hour:
+Symbol | Change | Price now    
+------ | ------ | -------------
+BNB    | +7.3%  |    US$ 530,38
+BTCB   | +6.9%  | US$ 52.151,66
+------ | ------ | -------------
+SWAMP  | -8.1%  |     US$ 53,18
 ```
 
 You can configure the following settings for this feature:

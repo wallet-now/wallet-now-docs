@@ -40,37 +40,36 @@ You:
 🤖 Wallet Now Bot:
 Processing. Please wait...
 
-Snapshot: 2021-04-24 22:45 UTC
+Snapshot: 2021-04-26 02:04 UTC
 Investment          | Total amount
-------------------- | ------------
-$AUTO               |       $21.08
-$AUTOx              |       $28.18
-$BNB                |       $26.68
-$BNBx               |       $27.47
-$BNB on Binance     |        $1.31
-$BUSD on Binance    |        $0.01
-$BTCB               |    $7,481.19
-$BUNNY              |       $77.12
-$BUSD               |    $5,771.08
-$Cake               |       $46.88
-$ETH                |    $4,410.83
-$FAIR               |        $7.08
-$UST                |       $19.20
-$VAI                |    $6,148.10
-$WATCH              |      $461.12
-BUNNY Boost Vault   |      $412.74
-Cake                |        $0.04
-Moo Swampy SWAMP    |       $70.06
-Student Coin (STC)  |    $6,353.00
-USDT lending market |        $0.35
-iBUSD               |   $23,392.93
-iUSDT               |   $14,978.51
-xBLZD Cave          |        $1.83
-------------------- | ------------
-Trezor 1            |   $57,328.01
-Trezor 2            |   $11,947.68
-Ledger 1            |      $461.13
-Grand total         |   $69,736.82
+------------------- | -------------
+$BNB on Binance     |      US$ 1,38
+BTCB Vault          |  US$ 7.696,77
+BUNNY Boost Vault   |    US$ 450,19
+BUNNY Staking       |    US$ 177,18
+Cake                |      US$ 0,04
+ETH Vault           |  US$ 4.786,39
+iBUSD               | US$ 23.419,45
+iUSDT               | US$ 14.994,40
+Moo Swampy SWAMP    |     US$ 76,98
+Student Coin (STC)  |  US$ 6.353,35
+VAI-BUSD LP Staking | US$ 11.900,85
+xBLZD Cave          |      US$ 1,77
+------------------- | -------------
+Wallet 1 (3 tokens) |     US$ 35,34
+ $BNB               |     US$ 23,21
+ $FAIR              |      US$ 7,09
+ $VAI               |      US$ 5,03
+Wallet 2 (2 tokens) |     US$ 56,09
+ $AUTO              |     US$ 29,23
+ $BNB               |     US$ 26,86
+Wallet 3 (1 token)  |    US$ 520,34
+ $WATCH             |    US$ 520,34
+------------------- | -------------
+Wallet 1            | US$ 57.410,92
+Wallet 2            | US$ 12.539,25
+Wallet 3            |    US$ 520,35
+Grand total         | US$ 70.470,52
 ```
 
 ## Prices
@@ -84,23 +83,24 @@ You:
 🤖 Wallet Now Bot:
 Processing. Please wait...
 
-== Token Prices == 
- - AUTO: $2,147.99
- - BNB: $507.15
- - BTCB: $50,819.54
- - BUNNY: $356.25
- - BUSD: $1.00
- - Cake: $29.51
- - ETH: $2,267.08
- - FAIR: $0.00
- - SWAMP: $49.11
- - USDT: $1.00
- - UST: $1.00
- - VAI: $0.98
- - WATCH: $1.22
- - iBUSD: $1.01
- - iUSDT: $1.01
- - xBLZD: $10.40
+Symbol | Price        
+------ | -------------
+AUTO   |  US$ 2.230,03
+BNB    |    US$ 530,38
+BTCB   | US$ 52.151,66
+BUNNY  |    US$ 386,98
+BUSD   |      US$ 1,00
+Cake   |     US$ 32,86
+ETH    |  US$ 2.459,13
+FAIR   |      US$ 0,00
+SWAMP  |     US$ 53,18
+USDT   |      US$ 1,00
+VAI    |      US$ 0,98
+WATCH  |      US$ 1,37
+WBNB   |    US$ 532,34
+iBUSD  |      US$ 1,01
+iUSDT  |      US$ 1,01
+xBLZD  |      US$ 9,96
 ```
 
 ## Other commands
