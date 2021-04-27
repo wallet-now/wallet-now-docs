@@ -12,13 +12,5 @@ To protect  your data even if someone gets hold of your wallet address, you can 
 
 When you enable this feature, only the wallet owner is authorized to see the account data. You will need to login with your wallet, by signing a message \(at no cost - this signature happens offline\), which proves that you are the owner of that wallet.
 
-## Feature availability
 
-Wallet Now is **free forever**. It will always have a free plan available for you to use - period!
-
-To cover for the infrastructure and development costs we will offer paid plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
-
-| Free | Bronze | Silver | Gold |
-| :--- | :--- | :--- | :--- |
-| 🚫 | 🚫 | 🚫 | ✅ |
 

@@ -15,13 +15,5 @@ There are some important limitations with custom investments:
 1. We don't know how much the investment is yielding \(or losing\), so the reported data is based exclusively on the amount of tokens invested and the current price of the token.
 2. We support only BEP20 tokens \(all Binance Smart Chain tokens\). If there is no corresponding token in the BSC, you will need to register with a similar token or in Dollars.
 
-## Feature availability
 
-Wallet Now is **free forever**. It will always have a free plan available for you to use - period!
-
-To cover for the infrastructure and development costs we will offer paid plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
-
-| Free | Bronze | Silver | Gold |
-| :--- | :--- | :--- | :--- |
-| 🚫 | 🚫 | 🚫 | ✅ |
 
