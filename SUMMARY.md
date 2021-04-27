@@ -6,6 +6,7 @@
 
 ## Features
 
+* [Account view](features/account-view.md)
 * [Login](features/login.md)
 * [Binance Exchange Integration](features/binance-exchange-integration.md)
 * [Custom Investments](features/custom-investments.md)
