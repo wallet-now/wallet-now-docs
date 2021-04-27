@@ -29,7 +29,7 @@ In addition to the protocols listed above, Wallet Now will also automatically de
 | Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Coming soon |
 | MDex | [https://mdex.com/](https://mdex.com/) | Coming soon |
 
-Would you like to request support for a new protocol? You can open a request [here](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. You can also offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
+Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. In the near future you will also be able to offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
 
 ## Off-chain
 
