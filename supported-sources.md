@@ -1,5 +1,5 @@
 ---
-description: Wallet Now currently supports the following sources of crypto investments
+description: WalletNow currently supports the following sources of crypto investments
 ---
 
 # Supported sources

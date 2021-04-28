@@ -1,6 +1,6 @@
 # Account view
 
-Once you enter a wallet address, Wallet Now will process all the blockchain information for that wallet and display a summarized view of all investments in a table format.
+Once you enter a wallet address, WalletNow will process all the blockchain information for that wallet and display a summarized view of all investments in a table format.
 
 On this page you will find the following information:
 

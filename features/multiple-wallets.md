@@ -2,7 +2,7 @@
 
 Would you like to split your investments across multiple wallets for extra security, but still monitor them all in a consolidated view? We too!
 
-With Wallet Now, you can register up to **five wallets per account**, and see all of them in a consolidated view in both the website and the Telegram Bot!
+With WalletNow, you can register up to **five wallets per account**, and see all of them in a consolidated view in both the website and the Telegram Bot!
 
 To register additional wallets, open "Account Settings" and add them. You can also manage those using the [Telegram Bot](telegram-bot.md).
 
@@ -51,7 +51,7 @@ Example bot configuration session:
 🙍‍♂️ You:
 /wallet
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Your registered wallets are:
  - 1) 0x2ed2...9ce9 - Alias: Trezor 1
 
@@ -65,13 +65,13 @@ If you have any questions, check the documentation
 🙍‍♂️ You:
 /wallet add 0x4fd0e381c994b4173e4b452843b7b28c6a38acf6 Hot wallet MetaMask
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Extra wallet registered with success
 
 🙍‍♂️ You:
 /wallet
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Your registered wallets are:
  - 1) 0x2ed2...9ce9 - Alias: Trezor 1
  - 2) 0x4fd0...acf6 - Alias: Hot wallet MetaMask
@@ -86,7 +86,7 @@ If you have any questions, check the documentation
 🙍‍♂️ You:
 /wallet delete 2
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Extra wallet unregistered with success
 ```
 

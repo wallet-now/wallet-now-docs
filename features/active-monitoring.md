@@ -5,7 +5,7 @@ Your [Telegram Bot](telegram-bot.md) comes with another super-useful feature: Ac
 When you enable active monitoring, you will be automatically notified if there is any abnormal volatility in any of your investments \(any tokens you are currently holding or are locked in an investment\).
 
 ```text
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Wallet Now Active Monitoring
 Relevant changes in the last hour:
 Symbol | Change | Price now    
@@ -85,7 +85,7 @@ Example configuration session with the bot:
 🙍‍♂️ You:
 /monitor
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Active monitoring is currently: DISABLED
  - Time window: 1 hour
  - Price drop alert: (disabled)
@@ -104,25 +104,25 @@ If you have any questions, check the documentation
 🙍‍♂️ You:
 /monitor enable
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Active monitoring ENABLED
 
 🙍‍♂️ You:
 /monitor increase 5
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Price increase alert set to: 5%
 
 🙍‍♂️ You:
 /monitor drop 6%
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Price drop alert set to: 6%
 
 🙍‍♂️ You:
 /monitor hours 2
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Time window set to: 2 hours
 ```
 

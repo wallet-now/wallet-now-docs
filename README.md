@@ -4,9 +4,9 @@ description: >-
   investments consolidated in just one place.
 ---
 
-# Wallet Now
+# WalletNow
 
-**Wallet Now** consolidates all your crypto investments from multiple sources and aggregates them in a simple, clean and searchable table. Check it out now for free on [https://walletnow.net](https://walletnow.net)
+**WalletNow** consolidates all your crypto investments from multiple sources and aggregates them in a simple, clean and searchable table. Check it out now for free on [walletnow.net](https://walletnow.net)
 
 This is a brand new product, so we would love to hear your feedback! Please join our [Telegram Groups](stay-tuned.md) and share your experience.
 
@@ -27,5 +27,5 @@ This is a brand new product, so we would love to hear your feedback! Please join
 
 Wallet Now is **free forever**. It will always have a free plan available for you to use - period!
 
-To cover for the infrastructure and development costs we will offer paid plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
+To cover for the infrastructure and development costs we may offer paid plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
 

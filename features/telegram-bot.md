@@ -11,7 +11,7 @@ Our Telegram Bot \([@WalletNow\_Bot](https://t.me/WalletNow_Bot)\) provides a co
 
 To link your Telegram account to your wallet:
 
-1. Open your walled on Wallet Now.
+1. Open your wallet on WalletNow.net
 2. Click on Account Settings and make sure your are logged in. You MUST login to connect your telegram account.
 3. Click on "Link Telegram Bot" and copy the provided key
 4. Go to Telegram and start a conversation with [@WalletNow\_Bot](https://t.me/WalletNow_Bot)
@@ -20,10 +20,10 @@ To link your Telegram account to your wallet:
 **Example:**
 
 ```text
-You:
+🙍‍♂️ You:
 /link 0x9f8ccdafcc39f3c7d6ebf637c9151673cbc36b88 2f54b02a4b23c456fda6
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Congratulations! Your account has been successfully linked 👏🏻👏🏻
 ```
 
@@ -34,10 +34,10 @@ To take a quick snapshot of your investments, just send the command `/snapshot`
 **Example:**
 
 ```text
-You:
+🙍‍♂️ You:
 /snapshot
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Processing. Please wait...
 
 Snapshot: 2021-04-26 02:04 UTC
@@ -77,7 +77,7 @@ Grand total         | US$ 70.470,52
 You can quickly check the prices of all your tokens with the `/prices` command:
 
 ```text
-You:
+🙍‍♂️ You:
 /prices
 
 🤖 Wallet Now Bot:

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wallet Now](README.md)
+* [WalletNow](README.md)
 * [Supported sources](supported-sources.md)
 * [Stay tuned](stay-tuned.md)
 
