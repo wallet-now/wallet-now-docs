@@ -16,6 +16,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | Venus | [https://app.venus.io/](https://app.venus.io/) |
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) |
 | Cream | [https://app.cream.finance/](https://app.cream.finance/) |
+| JetFuel | [https://jetfuel.finance/](https://jetfuel.finance/) |
 
 In addition to the protocols listed above, Wallet Now will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), Wallet Now will display detailed information about the underlying tokens as well.
 
@@ -24,7 +25,6 @@ In addition to the protocols listed above, Wallet Now will also automatically de
 | Protocol | Website | Status |
 | :--- | :--- | :--- |
 | bDollar | [https://bdollar.fi/](https://bdollar.fi/) | Coming soon |
-| JetFuel | [https://jetfuel.finance/](https://jetfuel.finance/) | Coming soon |
 | ACryptos | [https://app.acryptos.com/](https://app.acryptos.com/) | Coming soon |
 | Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Coming soon |
 | MDex | [https://mdex.com/](https://mdex.com/) | Coming soon |
