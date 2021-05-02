@@ -3,6 +3,7 @@
 * [WalletNow](README.md)
 * [Supported sources](supported-sources.md)
 * [Stay tuned](stay-tuned.md)
+* [Privacy and security](privacy-and-security.md)
 
 ## Features
 
