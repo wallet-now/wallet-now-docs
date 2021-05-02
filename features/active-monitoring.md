@@ -6,7 +6,7 @@ When you enable active monitoring, you will be automatically notified if there i
 
 ```text
 🤖 WalletNow Bot:
-Wallet Now Active Monitoring
+WalletNow Active Monitoring
 Relevant changes in the last hour:
 Symbol | Change | Price now    
 ------ | ------ | -------------

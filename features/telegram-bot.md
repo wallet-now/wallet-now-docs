@@ -80,7 +80,7 @@ You can quickly check the prices of all your tokens with the `/prices` command:
 🙍‍♂️ You:
 /prices
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Processing. Please wait...
 
 Symbol | Price        
@@ -111,7 +111,7 @@ There are many other commands in the bot which you can use to configure your pre
 You:
 /start
 
-🤖 Wallet Now Bot:
+🤖 WalletNow Bot:
 Hello. Welcome to Wallet Now! (https://walletnow.net)
 The list of available commands are:
 /start

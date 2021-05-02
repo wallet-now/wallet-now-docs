@@ -9,7 +9,7 @@ The enable this feature you will need to follow these steps:
 
 ![](../.gitbook/assets/apimanagement.png)
 
-3. Give a label \(for example "Wallet Now"\) to your key, and click on Create.
+3. Give a label to your key \(for example "WalletNow"\), and click on Create.
 
 ![](../.gitbook/assets/createkey.png)
 

@@ -12,21 +12,21 @@ description: WalletNow currently supports the following sources of crypto invest
 | Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) |
 | Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) |
-| PancakeSwap | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
+| PancakeSwap \(PCS\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
 | Venus | [https://app.venus.io/](https://app.venus.io/) |
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) |
 | Cream | [https://app.cream.finance/](https://app.cream.finance/) |
 | JetFuel | [https://jetfuel.finance/](https://jetfuel.finance/) |
 | MDex | [https://mdex.com/](https://mdex.com/) |
+| ACryptos | [https://app.acryptos.com/](https://app.acryptos.com/) |
 
-In addition to the protocols listed above, Wallet Now will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), Wallet Now will display detailed information about the underlying tokens as well.
+In addition to the protocols listed above, we will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well.
 
 **Coming soon \(no ETA\):**
 
 | Protocol | Website | Status |
 | :--- | :--- | :--- |
 | bDollar | [https://bdollar.fi/](https://bdollar.fi/) | Coming soon |
-| ACryptos | [https://app.acryptos.com/](https://app.acryptos.com/) | Coming soon |
 | Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Coming soon |
 
 Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. In the near future you will also be able to offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
