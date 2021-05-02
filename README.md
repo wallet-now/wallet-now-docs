@@ -21,7 +21,7 @@ This is a brand new product, so we would love to hear your feedback! Please join
 * [Register customized](features/custom-investments.md) crypto investments from unsupported locations. All your portfolio in only one place!
 * COMING SOON: [Time Machine](coming-soon/time-machine.md): See how your investments were in the past. Complete including historical conversion rates.
 
-![Sample account view with multiple wallets](.gitbook/assets/accountdata%20%281%29.png)
+![](.gitbook/assets/accountview%20%281%29.png)
 
 ## Pricing
 

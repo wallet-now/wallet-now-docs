@@ -4,7 +4,7 @@ WalletNow displays summarized information by default, containing only the most i
 
 In the account data page, you can click on the small "arrow" on the left side of any investment to see additional details.
 
-![](../.gitbook/assets/detailedview.png)
+![](../.gitbook/assets/detailedview%20%281%29.png)
 
 
 
