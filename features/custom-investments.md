@@ -13,7 +13,15 @@ To register a custom investment, just open your Account Settings and add them th
 There are some important limitations with custom investments:
 
 1. We don't know how much the investment is yielding \(or losing\), so the reported data is based exclusively on the amount of tokens invested and the current price of the token.
-2. We support only BEP20 tokens \(all Binance Smart Chain tokens\). If there is no corresponding token in the BSC, you will need to register with a similar token or in Dollars.
+2. We support only **BEP20 tokens** \(all Binance Smart Chain tokens\). If there is no corresponding token in the BSC, you will need to register with a similar token or in Dollars.
+
+### Screen-shots
+
+![](../.gitbook/assets/image%20%286%29.png)
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## Configuring using the Telegram bot
 

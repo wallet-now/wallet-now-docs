@@ -21,7 +21,7 @@ To link your Telegram account to your wallet:
 
 ![First, login with your wallet](../.gitbook/assets/image%20%281%29.png)
 
-![Then get the Telegram key](../.gitbook/assets/image%20%283%29.png)
+![Then get the Telegram key](../.gitbook/assets/image%20%284%29.png)
 
 **Example command on Telegram:**
 
