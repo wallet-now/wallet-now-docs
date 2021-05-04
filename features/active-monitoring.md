@@ -18,7 +18,7 @@ SWAMP  | -8.1%  |     US$ 53,18
 
 To configure this feature, just open your Account Settings.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 You can configure the following settings for this feature:
 
