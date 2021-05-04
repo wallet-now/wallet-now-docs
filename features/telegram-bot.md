@@ -1,6 +1,8 @@
 # Telegram Bot
 
-Our Telegram Bot \([@WalletNow\_Bot](https://t.me/WalletNow_Bot)\) provides a convenient way to quickly check summarized information of your investments, any time, anywhere! With our bot you can:
+Our Telegram Bot \([@WalletNow\_Bot](https://t.me/WalletNow_Bot)\) provides a convenient way to quickly check summarized information of your investments, any time, anywhere!
+
+With our bot you can:
 
 * Request a quick snapshot of all your wallets with summarized information
 * Check the prices of all your tokens \(tokens you currently hold or have invested\)
