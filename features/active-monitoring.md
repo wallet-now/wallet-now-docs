@@ -1,6 +1,6 @@
 # Active Monitoring
 
-Your [Telegram Bot](telegram-bot.md) comes with another super-useful feature: Active Monitoring of all your tokens!
+Your [Telegram Bot](telegram-bot.md) comes with another cool feature: Active Monitoring of all your tokens!
 
 When you enable active monitoring, you will be automatically notified if there is any abnormal volatility in any of your investments \(any tokens you are currently holding or are locked in an investment\).
 
@@ -16,6 +16,10 @@ BTCB   | +6.9%  | US$ 52.151,66
 SWAMP  | -8.1%  |     US$ 53,18
 ```
 
+To configure this feature, just open your Account Settings.
+
+![](../.gitbook/assets/image%20%281%29.png)
+
 You can configure the following settings for this feature:
 
 | Setting | Description |
@@ -26,7 +30,7 @@ You can configure the following settings for this feature:
 
 ## Configuring via Telegram commands
 
-You can configure this functionality using the following telegram commands:
+You can also configure this functionality using the following telegram commands:
 
 <table>
   <thead>
