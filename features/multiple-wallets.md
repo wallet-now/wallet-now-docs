@@ -6,7 +6,9 @@ With WalletNow, you can register up to **five wallets per account**, and see all
 
 To register additional wallets, open "Account Settings" and add them. You can also manage those using the [Telegram Bot](telegram-bot.md).
 
-![](../.gitbook/assets/accountdata%20%282%29.png)
+![Wallets configuration](../.gitbook/assets/image%20%286%29.png)
+
+![Multi-wallet account view](../.gitbook/assets/accountdata%20%282%29.png)
 
 ## Configuring via the Telegram bot
 
