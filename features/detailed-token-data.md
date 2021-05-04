@@ -6,7 +6,7 @@ In the account data page, you can click on the small "arrow" on the left side of
 
 ![Sample detailed token data for AutoFarm](../.gitbook/assets/detailedview%20%281%29.png)
 
-![Sample detailed token data for bDollar](../.gitbook/assets/image%20%288%29.png)
+![Sample detailed token data for bDollar](../.gitbook/assets/image%20%289%29.png)
 
 
 

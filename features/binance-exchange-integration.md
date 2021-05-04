@@ -20,5 +20,7 @@ The enable this feature you will need to follow these steps:
 8. Open the "Account Settings", enable Binance Integration and enter the keys you copied  
 9. Click on SAVE and return to your account data screen. All your Binance holdings \(including open orders\) will be included in the list now.
 
+![Binance Integration settings](../.gitbook/assets/image%20%284%29.png)
+
 
 
