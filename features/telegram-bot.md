@@ -109,6 +109,52 @@ iUSDT  |      US$ 1,01
 xBLZD  |      US$ 9,96
 ```
 
+## Pending Yields
+
+You can check all your pending yields with the `/pending` command:
+
+```text
+🙍‍♂️ You:
+/pending
+
+🤖 WalletNow Bot:
+Processing. Please wait...
+
+Pending Yields:
+Investment          | Pending
+------------------- | -------
+BNB-BUSD LP Staking |  $14.78
+  $BUNNY            |   $7.96
+  $Cake             |   $6.82
+VAI-BUSD LP Staking |  $14.58
+  $BUNNY            |   $7.85
+  $Cake             |   $6.72
+iBUSD Staking       |  $11.35
+  $AUTO             |  $11.35
+BUNNY Boost Vault   |   $8.89
+  $BUNNY            |   $8.89
+iUSDT Staking       |   $6.69
+  $AUTO             |   $6.69
+BUNNY Staking       |   $6.15
+  $BNB              |   $6.15
+BTCB Vault          |   $6.13
+  $BTCB             |   $2.83
+  $BUNNY            |   $3.30
+ETH Vault           |   $3.50
+  $BUNNY            |   $1.89
+  $ETH              |   $1.62
+xBLZD Cave          |   $0.18
+  $xBLZD            |   $0.18
+MDX-BUSD LP Staking |   $0.14
+  $MDX              |   $0.14
+------------------- | -------
+Trezor 1            |  $47.96
+Trezor 2            |  $24.41
+Total Pending       |  $72.38
+```
+
+This is a great way to quickly check if it is time to do those manual compounds, or if you should wait a bit more!
+
 ## Other commands
 
 There are many other commands in the bot which you can use to configure your preferences, manage extra wallets and register custom investments. Just send the `/start` command to see them all:
