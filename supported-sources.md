@@ -32,6 +32,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | Alpaca | [https://www.alpacafinance.org/](https://www.alpacafinance.org/) | Planned |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | Planned |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | Planned |
+| 1inch | [https://app.1inch.io/\#/56/](https://app.1inch.io/#/56/) | Planned - DEX prices only |
 
 Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. In the near future you will also be able to offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
 
