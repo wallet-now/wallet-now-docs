@@ -10,9 +10,9 @@ Once the message is successfully signed, we will store that information on your 
 
 We currently support the following wallet applications: **MetaMask**, **TrustWallet**, and **WalletConnect**. WalletConnect can be used to enable a large variety of wallet applications.
 
-If you wish to logout for any reason, you can do so in the same page:
+If you wish to logout, you can do so in the same page:
 
-![](../.gitbook/assets/logout%20%281%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 You can also configure your account to be visible only when logged-in. Read more about it [**here**](privacy-lock.md).
 
