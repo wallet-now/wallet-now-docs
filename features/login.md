@@ -18,7 +18,7 @@ You can also configure your account to be visible only when logged-in. Read more
 
 ### Security considerations
 
-Signing messages with your wallet \(even offline messages\) has been used as an attack vetor multiple times already, so it is important to understand WHAT is being signed.
+Signing messages with your wallet \(even offline messages\) has been used as an attack vector multiple times already, so it is important to understand WHAT is being signed.
 
 WalletNow login messages are created using a combination of a server-side generated secret and the account address, and they look like this: `0uKt9xd7eor738EtFjTPI+oacQIPahMIBwoWQA+3j95=`
 
