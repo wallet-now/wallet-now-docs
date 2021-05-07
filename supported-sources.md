@@ -4,6 +4,13 @@ description: WalletNow currently supports the following sources of crypto invest
 
 # Supported sources
 
+## Off-chain
+
+| Name | Description |
+| :--- | :--- |
+| Binance Exchange | You can connect your Binance Exchange account to Wallet Now in order to see all your Binance investements consolidated along with DeFi and others. Read more about it [**here**](features/binance-exchange-integration.md). |
+| Custom Investments | You can manually register investments in any unsupported location \(even other chains\). Read more about it [**here**](features/custom-investments.md). |
+
 ## DeFi \(On-chain\)
 
 | Protocol | Website |
@@ -21,14 +28,24 @@ description: WalletNow currently supports the following sources of crypto invest
 | ACryptos | [https://app.acryptos.com/](https://app.acryptos.com/) |
 | bDollar | [https://bdollar.fi/](https://bdollar.fi/) |
 
-In addition to the protocols listed above, we will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well.
+In addition to the protocols listed above, we will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
-**Coming soon \(no ETA\):**
+### DEX support
+
+| Protocol | Website |
+| :--- | :--- |
+| PancakeSwap V1 \(PCS V1\) | [https://v1exchange.pancakeswap.finance/](https://v1exchange.pancakeswap.finance/) |
+| PancakeSwap V2 \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
+| HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) |
+| MDex | [https://mdex.com/](https://mdex.com/) |
+| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
+
+### **Coming soon \(no ETA\):**
 
 | Protocol | Website | Status |
 | :--- | :--- | :--- |
-| Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Coming soon |
-| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | Planned |
+| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | Coming soon \(DEX already supported\) |
+| Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Planned |
 | Alpaca | [https://www.alpacafinance.org/](https://www.alpacafinance.org/) | Planned |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | Planned |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | Planned |
@@ -36,12 +53,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 
 Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. In the near future you will also be able to offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
 
-## Off-chain
-
-| Name | Description |
-| :--- | :--- |
-| Binance Exchange | You can connect your Binance Exchange account to Wallet Now in order to see all your Binance investements consolidated along with DeFi and others. Read more about it [**here**](features/binance-exchange-integration.md). |
-| Custom Investments | You can manually register investments in any unsupported location \(even other chains\). Read more about it [**here**](features/custom-investments.md). |
+## 
 
 
 
