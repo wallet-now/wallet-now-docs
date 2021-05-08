@@ -19,7 +19,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) |
 | Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) |
-| PancakeSwap \(PCS\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
+| PancakeSwap \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
 | Venus | [https://app.venus.io/](https://app.venus.io/) |
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) |
 | Cream | [https://app.cream.finance/](https://app.cream.finance/) |
@@ -27,6 +27,8 @@ description: WalletNow currently supports the following sources of crypto invest
 | MDex | [https://mdex.com/](https://mdex.com/) |
 | ACryptos | [https://app.acryptos.com/](https://app.acryptos.com/) |
 | bDollar | [https://bdollar.fi/](https://bdollar.fi/) |
+| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
+| PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
@@ -39,15 +41,14 @@ In addition to the protocols listed above, we will also automatically detect **a
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) |
 | MDex | [https://mdex.com/](https://mdex.com/) |
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
+| PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
 
 ### **Coming soon \(no ETA\):**
 
 | Protocol | Website | Status |
 | :--- | :--- | :--- |
-| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | Coming soon \(DEX already supported\) |
 | Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Planned |
 | Alpaca | [https://www.alpacafinance.org/](https://www.alpacafinance.org/) | Planned |
-| PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | Planned |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | Planned |
 | 1inch | [https://app.1inch.io/\#/56/](https://app.1inch.io/#/56/) | Planned - DEX prices only |
 
