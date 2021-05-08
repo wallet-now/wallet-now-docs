@@ -8,7 +8,9 @@ The login process is very simple: We will request a message signature which you 
 
 Once the message is successfully signed, we will store that information on your browser and use it to sign all the requests. This will enable you to modify your settings.
 
-We currently support the following wallet applications: **MetaMask**, **TrustWallet**, and **WalletConnect**. WalletConnect can be used to enable a large variety of wallet applications.
+We currently support the following wallet applications: **MetaMask**, **Trust Wallet, Math Wallet, SafePal and WalletConnect**. WalletConnect can be used to enable a large variety of other wallet applications and uses-cases.
+
+![](../.gitbook/assets/image%20%2813%29.png)
 
 If you wish to logout, you can do so in the same page:
 
