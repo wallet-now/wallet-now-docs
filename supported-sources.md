@@ -76,6 +76,12 @@ In addition to the protocols listed above, we will also automatically detect **a
       </td>
       <td style="text-align:left">Planned</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Swamp</td>
+      <td style="text-align:left"><a href="https://swamp.finance/">https://swamp.finance/</a>
+      </td>
+      <td style="text-align:left">Under consideration</td>
+    </tr>
   </tbody>
 </table>
 
