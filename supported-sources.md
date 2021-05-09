@@ -42,15 +42,42 @@ In addition to the protocols listed above, we will also automatically detect **a
 | MDex | [https://mdex.com/](https://mdex.com/) |
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
+| BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) |
 
 ### **Coming soon \(no ETA\):**
 
-| Protocol | Website | Status |
-| :--- | :--- | :--- |
-| Alpha Homora | [https://homora-bsc.alphafinance.io/](https://homora-bsc.alphafinance.io/) | Planned |
-| Alpaca | [https://www.alpacafinance.org/](https://www.alpacafinance.org/) | Planned |
-| BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | Planned |
-| 1inch | [https://app.1inch.io/\#/56/](https://app.1inch.io/#/56/) | Planned - DEX prices only |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Protocol</th>
+      <th style="text-align:left">Website</th>
+      <th style="text-align:left">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Alpaca</td>
+      <td style="text-align:left"><a href="https://www.alpacafinance.org/">https://www.alpacafinance.org/</a>
+      </td>
+      <td style="text-align:left">Planned</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">JaguarSwap</td>
+      <td style="text-align:left"><a href="https://jaguarswap.com/staking">https://jaguarswap.com/</a>
+      </td>
+      <td style="text-align:left">Planned</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>BakerySwap (farms and staking)</p>
+        <p>DEX already supported</p>
+      </td>
+      <td style="text-align:left"><a href="https://www.bakeryswap.org/">https://www.bakeryswap.org/</a>
+      </td>
+      <td style="text-align:left">Planned</td>
+    </tr>
+  </tbody>
+</table>
 
 Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization. In the near future you will also be able to offer bounties for feature requests, which is a great way to incentivize the development team to prioritize. Read more about it [**here**](coming-soon/feature-bounty.md)!
 
