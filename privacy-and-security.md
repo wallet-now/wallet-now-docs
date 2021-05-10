@@ -8,13 +8,16 @@ This page details the most important aspects of our data handling policies.
 
 All data is encrypted both in-transit and at-rest using **256-bit Advanced Encryption Standard \(AES-256\)**, which helps secure your data from unauthorized access to the underlying storage.
 
+Access to the data is restricted using state-of-the art technology managed by the world's lead cloud provider, and all our security credentials follow the [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), along with Preventative Security Best Practices and Detective Security Best Practices.
+
 ### What data is stored?
 
 We only store data that is critical to the functionality of the system. Most of the data stored is already considered public anyway since it is available for anyone to see in the blockchain, with the exception of the following:
 
 1. Account settings and preferences
 2. Telegram account ID \(only if you are using our [Telegram Bot](features/telegram-bot.md) integration\)
-3. Off-chain historical data of investments \(only if you are using the [Time Machine](coming-soon/time-machine.md) and [Binance Exchange Integration](features/binance-exchange-integration.md) functionality at the same time\).
+3. Off-chain historical data of investments \(only if you are using the [Time Machine](features/time-machine.md) and [Binance Exchange Integration](features/binance-exchange-integration.md) functionality at the same time\).
+4. Metadata for [Time Machine](features/time-machine.md) snapshots
 
 ### How long is it stored?
 
@@ -23,6 +26,7 @@ We only store data that is critical to the functionality of the system. Most of 
 | Account settings and preferences | Indefinite We may purge unused accounts after 1 year of inactivity |
 | Telegram account ID | Indefinite You can unlink at any time to delete this data forever |
 | Off-chain historical data of investments | 3 months |
+| Metadata for Time Machine snapshots | 3 months |
 
 ### How do you use this data?
 

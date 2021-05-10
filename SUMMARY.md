@@ -16,10 +16,10 @@
 * [Active Monitoring](features/active-monitoring.md)
 * [Multiple Wallets](features/multiple-wallets.md)
 * [Privacy Lock](features/privacy-lock.md)
+* [Time Machine](features/time-machine.md)
 
 ## Coming soon
 
-* [Time Machine](coming-soon/time-machine.md)
 * [Feature Bounty](coming-soon/feature-bounty.md)
 
 ## Support

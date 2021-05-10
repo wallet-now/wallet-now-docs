@@ -17,7 +17,7 @@ This is a brand new product, so we would love to hear your feedback! Please join
 * Add up to [five wallets](features/multiple-wallets.md) per account. See them all as part of the same account, along with aggregated totals.
 * [Link with your Binance Exchange account](features/binance-exchange-integration.md) to see off-chain crypto investments combined, all in one place. _\(More exchanges coming soon\)_
 * [Register customized](features/custom-investments.md) crypto investments from unsupported locations.
-* COMING SOON: [Time Machine](coming-soon/time-machine.md): See how your investments were in the past. Complete including historical conversion rates.
+* COMING SOON: [Time Machine](features/time-machine.md): See how your investments were in the past. Complete including historical conversion rates.
 
 ![](.gitbook/assets/accountview%20%281%29.png)
 
