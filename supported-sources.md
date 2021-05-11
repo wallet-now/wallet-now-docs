@@ -44,7 +44,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) |
 
-### **Coming soon \(no ETA\):**
+### **Under consideration \(no ETA\):**
 
 <table>
   <thead>
@@ -79,6 +79,12 @@ In addition to the protocols listed above, we will also automatically detect **a
     <tr>
       <td style="text-align:left">Swamp</td>
       <td style="text-align:left"><a href="https://swamp.finance/">https://swamp.finance/</a>
+      </td>
+      <td style="text-align:left">Under consideration</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">PadSwap</td>
+      <td style="text-align:left"><a href="https://padswap.exchange/">https://padswap.exchange/</a>
       </td>
       <td style="text-align:left">Under consideration</td>
     </tr>
