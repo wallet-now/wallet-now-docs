@@ -29,6 +29,9 @@ description: WalletNow currently supports the following sources of crypto invest
 | bDollar | [https://bdollar.fi/](https://bdollar.fi/) |
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
+| JaguarSwap | [https://jaguarswap.com/](https://jaguarswap.com/staking) |
+| Wault Finance | [https://wault.finance/](https://wault.finance/) |
+| GarudaSwap | [https://garudaswap.finance/](https://garudaswap.finance/) |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
@@ -43,6 +46,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) |
+| WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) |
 
 ### **Under consideration \(no ETA\):**
 
@@ -58,12 +62,6 @@ In addition to the protocols listed above, we will also automatically detect **a
     <tr>
       <td style="text-align:left">Alpaca</td>
       <td style="text-align:left"><a href="https://www.alpacafinance.org/">https://www.alpacafinance.org/</a>
-      </td>
-      <td style="text-align:left">Planned</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">JaguarSwap</td>
-      <td style="text-align:left"><a href="https://jaguarswap.com/staking">https://jaguarswap.com/</a>
       </td>
       <td style="text-align:left">Planned</td>
     </tr>
