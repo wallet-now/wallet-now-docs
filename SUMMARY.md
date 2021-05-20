@@ -11,6 +11,7 @@
 * [Login](features/login.md)
 * [Binance Exchange Integration](features/binance-exchange-integration.md)
 * [Custom Investments](features/custom-investments.md)
+* [Custom vaults](features/custom-vaults.md)
 * [Detailed token data](features/detailed-token-data.md)
 * [Telegram Bot](features/telegram-bot.md)
 * [Active Monitoring](features/active-monitoring.md)
