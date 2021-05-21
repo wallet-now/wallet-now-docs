@@ -5,6 +5,7 @@
 * [Stay tuned](stay-tuned.md)
 * [Privacy and security](privacy-and-security.md)
 * [WNOW Tokenomics](wnow-tokenomics.md)
+* [Pricing](pricing.md)
 
 ## Features
 
