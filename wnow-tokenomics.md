@@ -1,3 +1,7 @@
+---
+description: $WNOW is our utility token
+---
+
 # WNOW Tokenomics
 
 
