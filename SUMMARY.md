@@ -4,6 +4,7 @@
 * [Supported sources](supported-sources.md)
 * [Stay tuned](stay-tuned.md)
 * [Privacy and security](privacy-and-security.md)
+* [WNOW Tokenomics](wnow-tokenomics.md)
 
 ## Features
 
