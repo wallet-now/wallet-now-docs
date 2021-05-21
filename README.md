@@ -8,6 +8,8 @@ description: Easy Crypto & DeFi Monitoring for the Binance Smart chain
 
 This is a brand new product, so we would love to hear your feedback! Please join our [Telegram Groups](stay-tuned.md) and share your experience.
 
+![](.gitbook/assets/banner_twitter.png)
+
 ### Our cool features
 
 * [Telegram bot](features/telegram-bot.md): Check your portfolio status anywhere, any time
