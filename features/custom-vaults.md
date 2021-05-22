@@ -51,13 +51,13 @@ To register a custom vault, just open your Account Settings and add it there.
 
 ![Custom vaults](../.gitbook/assets/image%20%2815%29.png)
 
-![Adding a new custom vault](../.gitbook/assets/image%20%2818%29.png)
+![Adding a custom vault](../.gitbook/assets/image%20%2824%29.png)
 
 ### Determining the configuration values
 
 The most important information you need is the "Vault address", which is the address of the Smart Contract of that vault. To find that information, you can open your deposit transaction on BSCScan and copy the address of "**Interacted With \(To\)**":
 
-![Finding the vault address](../.gitbook/assets/image%20%2821%29.png)
+![Finding the vault address](../.gitbook/assets/image%20%2822%29.png)
 
 You can also optionally set additional fields to help WalletNow extract more information from the vault. These are more advanced configurations, which you can skip if you only want the basic information.
 
@@ -68,7 +68,7 @@ The following sections describe the advanced configuration fields if you want to
 This setting defines what token the vault gives as a reward for your investment. On this field you can either set the "API name" from the vault which gives the token address, or you can set the token address directly \(0x....\).  
 Each vault will have a different API to tell the reward token, so you need to figure out which it by examining the available APIs on BSCScan's "Read Contract". For example:
 
-![Example API which returns the reward token address \(&quot;spcx&quot;\)](../.gitbook/assets/image%20%2824%29.png)
+![Example API which returns the reward token address \(&quot;spcx&quot;\)](../.gitbook/assets/image%20%2826%29.png)
 
 For the example above you would set the reward token to either "**spcx**" \(with that exact case\) or to "**0x79e6e581003d49929fd065ce8ea5d8794ca6b9d8**"
 
@@ -76,7 +76,7 @@ For the example above you would set the reward token to either "**spcx**" \(with
 
 This setting defines the name of the contract API responsible to indicate how much pending reward you have. Each vault will have a different API for that, so you need to figure out which it by examining the available APIs on BSCScan's "Read Contract". They are usually called "**pending**" or "**pendingXXX**" \(where XXX is the reward token\), but this is just a mere convention. For example:
 
-![Example API which returns the pending rewards](../.gitbook/assets/image%20%2825%29.png)
+![Example API which returns the pending rewards](../.gitbook/assets/image%20%2827%29.png)
 
 For the example above you would set the API name to "**pendingSPCX**" \(with that exact case\).
 
