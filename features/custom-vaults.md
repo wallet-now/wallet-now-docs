@@ -37,14 +37,21 @@ The following information is currently reported for custom vaults:
       <td style="text-align:left">Harvests</td>
       <td style="text-align:left">For tokens withdraws which are not the same as the deposit token</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Pending rewards</td>
+      <td style="text-align:left"><b>ADVANCED: </b>Only available if you configure the optional settings
+        for the &quot;Reward token&quot; and &quot;Pending reward API&quot;</td>
+    </tr>
   </tbody>
 </table>
 
 To register a custom vault, just open your Account Settings and add it there.
 
+
+
 ![Custom vaults](../.gitbook/assets/image%20%2815%29.png)
 
-![Adding a new custom vault](../.gitbook/assets/image%20%2816%29.png)
+![Adding a new custom vault](../.gitbook/assets/image%20%2818%29.png)
 
 ## Configuring using the Telegram bot
 
@@ -77,6 +84,26 @@ You can also configure custom vaults using the following commands:
       <td style="text-align:left">
         <p>Removes a custom vault</p>
         <p><b>&lt;number&gt;</b>: Vault number as listed by /vault</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">/vault set_reward <b>&lt;number&gt; </b>  <b>&lt;reward_token&gt;</b>
+      </td>
+      <td style="text-align:left">
+        <p>Sets the &quot;reward token&quot; of a custom vault</p>
+        <p><b>&lt;number&gt;</b>: Vault number as listed by /vault</p>
+        <p><b>&lt;reward_token&gt;</b>: Either the reward token address or the name
+          of the API which retrieves the reward token from the vault contract</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">/vault set_pending_api <b>&lt;number&gt; </b>  <b>&lt;pending_api&gt;</b>
+      </td>
+      <td style="text-align:left">
+        <p>Sets the &quot;pending reward&quot; API name of a custom vault</p>
+        <p><b>&lt;number&gt;</b>: Vault number as listed by /vault</p>
+        <p><b>&lt;pending_api&gt;</b>: The name of the API which retrieves the pending
+          reward from the vault contract</p>
       </td>
     </tr>
   </tbody>
