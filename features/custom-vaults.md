@@ -136,5 +136,9 @@ You can also configure custom vaults using the following commands:
   </tbody>
 </table>
 
+## Limitations
 
+Custom vaults will try to extract as much information as possible from unknown contracts in a "best effort" way. There is no way to guarantee that it will work with any particular vault.
+
+If you added a custom vault, and it is not showing up in your portfolio, it probably means that we failed to extract any useful information from it. You can send us the address of the vault and we will try to add support for it, but some vaults may not be technically viable.
 
