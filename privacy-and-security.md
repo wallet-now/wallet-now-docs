@@ -12,7 +12,7 @@ Access to the data is restricted using state-of-the art technology managed by th
 
 ### What data is stored?
 
-We only store data that is critical to the functionality of the system. Most of the data stored is already considered public anyway since it is available for anyone to see in the blockchain, with the exception of the following:
+We only store data that is critical to the functionality of the system. Most of the data stored is already considered public since it is available for anyone to see in the blockchain, with the exception of the following:
 
 1. Account settings and preferences
 2. Telegram account ID \(only if you are using our [Telegram Bot](features/telegram-bot.md) integration\)
