@@ -15,15 +15,12 @@
 * [Custom Investments](features/custom-investments.md)
 * [Custom vaults](features/custom-vaults.md)
 * [Detailed token data](features/detailed-token-data.md)
+* [Impermanent loss](features/impermanent-loss.md)
 * [Telegram Bot](features/telegram-bot.md)
 * [Active Monitoring](features/active-monitoring.md)
 * [Multiple Wallets](features/multiple-wallets.md)
 * [Privacy Lock](features/privacy-lock.md)
 * [Time Machine](features/time-machine.md)
-
-## Coming soon
-
-* [Feature Bounty](coming-soon/feature-bounty.md)
 
 ## Support
 

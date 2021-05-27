@@ -8,5 +8,5 @@ In the account data page, you can click on the small "arrow" on the left side of
 
 ![Sample detailed token data for bDollar](../.gitbook/assets/image%20%2810%29.png)
 
-![LP Token details](../.gitbook/assets/image%20%2828%29.png)
+![LP Token details](../.gitbook/assets/image%20%2830%29.png)
 
