@@ -4,7 +4,9 @@ description: Easy Crypto & DeFi Monitoring for the Binance Smart chain
 
 # WalletNow
 
-**WalletNow** brings all your crypto investments from multiple sources and aggregates them in a simple, clean and searchable table. Check it out now for free on [walletnow.net](https://walletnow.net)
+**WalletNow** is an advanced crypto portfolio monitoring solution. It aggregates all your DeFi & CeFi investments in a searchable table and actively monitors it with an integrated Telegram Bot. With detailed LP information, impermanent loss and yields calculation, you are always in control of your wallet.
+
+Check it out now for free on [walletnow.net](https://walletnow.net)
 
 This is a brand new product, so we would love to hear your feedback! Please join our [Telegram Groups](stay-tuned.md) and share your experience.
 
