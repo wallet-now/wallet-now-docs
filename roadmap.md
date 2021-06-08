@@ -4,9 +4,44 @@ WalletNow is currently under active development, and more features are added eve
 
 We maintain a [public list of feature requests on GitHub](https://github.com/wallet-now/wallet-now/issues), and we tag those which are planning to implement next, so you always know what to expect next!
 
-Our next steps are:
+### April 2021
 
-1. Grab more feedback from the community to ensure it fits the most demanding power users
-2. Launch the "WalletNow Membership", which will grant access to the more advanced features by simply holding $WNOW tokens on your wallet
-3. Continue on "**BUIDLING**" and improving - always!
+* Alpha tests with a small group
+* Support for 7 Protocols
+* Telegram bot
+* Active monitoring
+* Multiple wallets
+* Binance Exchange Integration
+* Privacy lock
+
+### May 2021
+
+* WalletNow Beta open to the public
+* More wallet apps
+* Time Machine
+* $WNOW token launch and private sale
+* Support for +12 protocols \(total of 19\)
+* Custom vaults
+* Detailed LP Summary
+* Impermanent Loss display
+
+### June 2021
+
+* Start of marketing campaigns
+* Collection and incorporation of users feedback
+* Major UI redesign
+* Launch of membership plans
+* Integrate more protocols
+
+### July 2021
+
+* First cross-chain integration \(to be confirmed\)
+* Integrate more protocols
+* Integrate more exchanges \(off-chain\)
+
+### Q3 2021
+
+* Full cross-chain \(support for all major chains\)
+
+
 
