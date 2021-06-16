@@ -49,6 +49,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) |
 | WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) |
 | CheeseSwap | [https://cheeseswap.app/](https://cheeseswap.app/) |
+| JulSwap | [https://julswap.com/](https://julswap.com/) |
 
 ### **Under consideration \(no ETA\):**
 
