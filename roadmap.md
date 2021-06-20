@@ -29,12 +29,12 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 
 * Start of marketing campaigns
 * Collection and incorporation of users feedback
-* Major UI redesign
 * Launch of membership plans
 * Integrate more protocols
 
 ### July 2021
 
+* Major UI redesign
 * First cross-chain integration \(to be confirmed\)
 * Integrate more protocols
 * Integrate more exchanges \(off-chain\)
