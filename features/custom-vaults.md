@@ -4,6 +4,10 @@ Isn't it frustrating when you want to make an investment in that brand new farm 
 
 With **WalletNow**, you don't need to worry about that! Just find your transaction on BSCScan, get the address of the vault, and register it as a **custom vault**! WalletNow will automatically attempt to extract the most possible data from that vault for you.
 
+### Video Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=BaGImYiAoOE" %}
+
 If the vault follows a standard ABI \(Application Binary Interface\) which is similar to PancakeSwap's "MasterChef" contract, we can extract additional information such as the exact balance you have, including any earnings. But, even if the vault uses a custom ABI, we can still report some basic information for it.
 
 The following information is currently reported for custom vaults:
