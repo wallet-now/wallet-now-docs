@@ -18,7 +18,7 @@ description: $WNOW is our utility token
 * **Project operation:** 25% \(3MM **$WNOW**\)
 * **Team:** 30% \(3MM **$WNOW**\)
 
-\*\*\*\*[**Buy $WNOW here**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289)\*\*\*\*
+\*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289)
 
-Keep in mind that this is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as an investment token.
+Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 

@@ -1,28 +1,32 @@
 # Pricing
 
+![](.gitbook/assets/image%20%2832%29.png)
+
 WalletNow is **free forever**. It will always have a free plan available for you to use - period!
 
-To cover for the infrastructure and development costs we will offer plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
+However, to cover for the infrastructure and development costs, we also offer our SILVER and GOLD plans, which unlock our most advanced features.
 
 ### WalletNow Membership <a id="e44b"></a>
 
-We will keep WalletNow 100% free during its "Beta" stage. After that, we will transition to a freemium model.
+To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens. You can also add liquidity in any of our supported DEXes for additional benefits \(10% bonus\).
 
-To leverage all WalletNow features in the future, users will need to hold [**$WNOW**](wnow-tokenomics.md) tokens on their wallet. They will also be able to hold "**WBNB-WNOW LP**" tokens from PancakeSwap for additional benefits.
-
-Our currently planned membership plans are:
+Our membership plans are:
 
 * **Free:** Free forever! Basic functionality available to everyone.
 * **Silver:** Every $1 worth of **$WNOW** held allows monitoring up to $300 of portfolio.
 * **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio without any limitations.
-* Users can also receive a bonus of 10% on their monitored amount by holding "**WBNB-WNOW LP"** tokens from PancakeSwap.
+* Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
-The features included with each plan are detailed below:
+Read more about the exact mechanism here: XXXXXXXXXXXX
+
+\*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289)
+
+**The features included with each tier are detailed below:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Features</th>
       <th style="text-align:left">Free</th>
       <th style="text-align:left">Silver</th>
       <th style="text-align:left">Gold</th>
@@ -106,4 +110,8 @@ The features included with each plan are detailed below:
     </tr>
   </tbody>
 </table>
+
+#### Disclaimer
+
+Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 
