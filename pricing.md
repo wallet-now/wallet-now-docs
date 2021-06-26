@@ -17,7 +17,7 @@ Our membership plans are:
 * **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio without any limitations.
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
-Read more about the exact mechanism here: XXXXXXXXXXXX
+Read more about the exact mechanism here: [https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626](https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626)
 
 \*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289)
 
