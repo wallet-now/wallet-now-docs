@@ -6,6 +6,7 @@ description: $WNOW is our utility token
 
 
 
+* **Chain:** BSC \(Binance Smart Chain\)
 * **Symbol:** WNOW
 * **Name:** WalletNow
 * **Address:** [0x56aa0237244c67b9a854b4efe8479cca0b105289](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)

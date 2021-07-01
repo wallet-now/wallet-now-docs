@@ -35,7 +35,7 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 ### July 2021
 
 * Major UI redesign
-* First cross-chain integration \(to be confirmed\)
+* First cross-chain integration \(Polygon\)
 * Integrate more protocols
 * Integrate more exchanges \(off-chain\)
 

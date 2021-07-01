@@ -1,5 +1,5 @@
 ---
-description: Easy Crypto & DeFi Monitoring for the Binance Smart chain
+description: Easy Crypto & DeFi Monitoring for the Binance Smart chain & Polygon
 ---
 
 # WalletNow
@@ -25,9 +25,5 @@ This is a brand new product, so we would love to hear your feedback! Please join
 
 ![](.gitbook/assets/accountview%20%281%29.png)
 
-## Pricing
 
-WalletNow is **free forever**. It will always have a free plan available for you to use - period!
-
-To cover for the infrastructure and development costs we may offer paid plans in the future to unlock some of the most advanced features. **Right now, all features are 100% free to use, so go ahead and enjoy them.**
 
