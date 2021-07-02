@@ -17,7 +17,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | :--- | :--- | :--- |
 | Wallet holdings | N/A \(any BEP20 or ERC token\) | BSC, Polygon |
 | Custom Vaults | [Read the docs here](features/custom-vaults.md) | BSC, Polygon |
-| AutoFarm | [https://autofarm.network/](https://autofarm.network/) | BSC |
+| AutoFarm | [https://autofarm.network/](https://autofarm.network/) | BSC, Polygon |
 | Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) | BSC |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) | BSC |
 | Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) | BSC |
@@ -32,7 +32,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | BSC |
 | JaguarSwap | [https://jaguarswap.com/](https://jaguarswap.com/staking) | BSC |
-| Wault Finance | [https://wault.finance/](https://wault.finance/) | BSC |
+| Wault Finance | [https://wault.finance/](https://wault.finance/) | BSC, Polygon |
 | GarudaSwap | [https://garudaswap.finance/](https://garudaswap.finance/) | BSC |
 | Belt Finance | [https://belt.fi](https://belt.fi) | BSC |
 
@@ -49,7 +49,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | BSC |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | BSC |
-| WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC |
+| WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC, Polygon |
 | CheeseSwap | [https://cheeseswap.app/](https://cheeseswap.app/) | BSC |
 | JulSwap | [https://julswap.com/](https://julswap.com/) | BSC |
 | SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon |
@@ -57,44 +57,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 
 ### **Under consideration \(no ETA\):**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Protocol</th>
-      <th style="text-align:left">Website</th>
-      <th style="text-align:left">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Alpaca</td>
-      <td style="text-align:left"><a href="https://www.alpacafinance.org/">https://www.alpacafinance.org/</a>
-      </td>
-      <td style="text-align:left">Planned</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>BakerySwap (farms and staking)</p>
-        <p>DEX already supported</p>
-      </td>
-      <td style="text-align:left"><a href="https://www.bakeryswap.org/">https://www.bakeryswap.org/</a>
-      </td>
-      <td style="text-align:left">Planned</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Swamp</td>
-      <td style="text-align:left"><a href="https://swamp.finance/">https://swamp.finance/</a>
-      </td>
-      <td style="text-align:left">Under consideration</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">PadSwap</td>
-      <td style="text-align:left"><a href="https://padswap.exchange/">https://padswap.exchange/</a>
-      </td>
-      <td style="text-align:left">Under consideration</td>
-    </tr>
-  </tbody>
-</table>
+\*\*\*\*[**https://github.com/wallet-now/wallet-now/labels/integration**](https://github.com/wallet-now/wallet-now/labels/integration)\*\*\*\*
 
 Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization.
 
