@@ -8,7 +8,7 @@ However, to cover for the infrastructure and development costs, we also offer ou
 
 ### WalletNow Membership <a id="e44b"></a>
 
-To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens. You can also add liquidity in any of our supported DEXes for additional benefits \(10% bonus\).
+To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens on BSC. You can also add liquidity in any of our supported DEXes for additional benefits \(10% bonus\).
 
 Our membership plans are:
 
@@ -19,7 +19,7 @@ Our membership plans are:
 
 Read more about the exact mechanism here: [https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626](https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626)
 
-\*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289)
+\*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(BSC-only at this moment, but it is valid for both BSC and Polygon usage\)
 
 **The features included with each tier are detailed below:**
 
@@ -34,8 +34,8 @@ Read more about the exact mechanism here: [https://walletnow.medium.com/announci
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">View all your DeFi investments on Binance Smart Chain, including all BEP20
-        tokens and an ever-growing list of farms, pools and vaults!</td>
+      <td style="text-align:left">View all your DeFi investments on BSC and Polygon, including all tokens
+        and an ever-growing list of farms, pools and vaults!</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2705;</td>
