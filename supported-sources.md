@@ -54,6 +54,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | JulSwap | [https://julswap.com/](https://julswap.com/) | BSC |
 | SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon |
 | QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon |
+| Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon |
 
 ### **Under consideration \(no ETA\):**
 
