@@ -46,7 +46,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | PancakeSwap V2 \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) | BSC |
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) | BSC |
 | MDex | [https://mdex.com/](https://mdex.com/) | BSC |
-| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC |
+| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC, Polygon |
 | PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | BSC |
 | BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | BSC |
 | WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC, Polygon |
@@ -55,6 +55,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon |
 | QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon |
 | Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon |
+| Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon |
 
 ### **Under consideration \(no ETA\):**
 
