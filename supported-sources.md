@@ -20,7 +20,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | AutoFarm | [https://autofarm.network/](https://autofarm.network/) | BSC, Polygon |
 | Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) | BSC |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) | BSC |
-| Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) | BSC |
+| Pancake Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) | BSC, Polygon |
 | PancakeSwap \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) | BSC |
 | Venus | [https://app.venus.io/](https://app.venus.io/) | BSC |
 | HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) | BSC |
