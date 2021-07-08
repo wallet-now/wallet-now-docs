@@ -18,7 +18,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | Wallet holdings | N/A \(any BEP20 or ERC token\) | BSC, Polygon |
 | Custom Vaults | [Read the docs here](features/custom-vaults.md) | BSC, Polygon |
 | AutoFarm | [https://autofarm.network/](https://autofarm.network/) | BSC, Polygon |
-| Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) | BSC |
+| Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) | BSC, Polygon |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) | BSC |
 | Pancake Bunny | [https://pancakebunny.finance/](https://pancakebunny.finance/) | BSC, Polygon |
 | PancakeSwap \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) | BSC |
@@ -57,6 +57,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon |
 | Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon |
 | Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon |
+| Cometh | [https://swap.cometh.io/](https://swap.cometh.io/) | Polygon |
 
 ### **Under consideration \(no ETA\):**
 
