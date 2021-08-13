@@ -6,41 +6,45 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 
 ### April 2021
 
-* Alpha tests with a small group
-* Support for 7 Protocols
-* Telegram bot
-* Active monitoring
-* Multiple wallets
-* Binance Exchange Integration
-* Privacy lock
+* ✅ Alpha tests with a small group
+* ✅ Support for 7 Protocols
+* ✅ Telegram bot
+* ✅ Active monitoring
+* ✅ Multiple wallets
+* ✅ Binance Exchange Integration
+* ✅ Privacy lock
 
 ### May 2021
 
-* WalletNow Beta open to the public
-* More wallet apps
-* Time Machine
-* $WNOW token launch and private sale
-* Support for +12 protocols \(total of 19\)
-* Custom vaults
-* Detailed LP Summary
-* Impermanent Loss display
+* ✅ WalletNow Beta open to the public
+* ✅ More wallet apps
+* ✅ Time Machine
+* ✅ $WNOW token launch and private sale
+* ✅ Support for +12 protocols \(total of 19\)
+* ✅ Custom vaults
+* ✅ Detailed LP Summary
+* ✅ Impermanent Loss display
 
 ### June 2021
 
-* Start of marketing campaigns
-* Collection and incorporation of users feedback
-* Launch of membership plans
-* Integrate more protocols
+* ✅ Start of marketing campaigns
+* ✅ Collection and incorporation of users feedback
+* ✅ Launch of membership plans
+* ✅ Integrate more protocols
 
 ### July 2021
 
-* Major UI redesign
-* First cross-chain integration \(Polygon\)
-* Integrate more protocols
+* ✅ First cross-chain integration \(Polygon\)
+* ✅ Integrate more protocols
+
+### August 2021
+
+* ✅ Major UI redesign
+* Second cross-chain integration \(Ethererum\)
+
+### Q4 2021
+
 * Integrate more exchanges \(off-chain\)
-
-### Q3 2021
-
 * Full cross-chain \(support for all major chains\)
 
 

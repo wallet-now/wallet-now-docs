@@ -16,17 +16,17 @@ BTCB   | +6.9%  | US$ 52.151,66
 SWAMP  | -8.1%  |     US$ 53,18
 ```
 
-To configure this feature, just open your Account Settings.
+To configure this feature, just open your Account Settings and select Telegram.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 You can configure the following settings for this feature:
 
 | Setting | Description |
 | :--- | :--- |
 | Time window | Number of hours in the past that Wallet Now will look to check for price differences. The default is 1 hour, which means that alerts are generated for price changes on that period. |
-| Drop threshold | Only notify about price drops higher than the given percentage \(E.g.: Alert if any price drops more than 6% in one hour\) |
-| Increase threshold | Only notify about price increases higher than the given percentage \(E.g.: Alert if any price increases more than 6% in one hour\) |
+| Price Increase | Only notify about price increases higher than the given percentage \(E.g.: Alert if any price increases more than 6% in one hour\) |
+| Price Drop | Only notify about price drops higher than the given percentage \(E.g.: Alert if any price drops more than 6% in one hour\) |
 
 ## Configuring via Telegram commands
 

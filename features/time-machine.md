@@ -12,11 +12,11 @@ You can also read more about this cool feature on our medium article: [https://w
 
 To use this feature:
 
-* Click on "Time Machine"
+* Click on "Time Machine" 🗓
 * Select a date from the list and then select a time from that date
 * That is it! WalletNow will load a "snapshot" of your portfolio from that point in time. You can expand all investments normally to check all the details, change the local currency and see the summarized totals.
 
-![Sample Time Machine view](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 ### How does it work? <a id="1f34"></a>
 
@@ -24,9 +24,7 @@ Every time that an eligible wallet data is verified \(by accessing it via the we
 
 At this time, this metadata is stored for three months. Which means you can check for up to 90 days in the past using Time Machine \(after you start using WalletNow\).
 
-Tip: When you combine this feature with our **Active Monitoring**, your personal robot assistant will automatically take a snapshot of your wallet every 30 minutes, which means you can select from at least 48 different points in time per day!!!
-
-![Active Monitoring](https://miro.medium.com/max/342/1*pcqMbgGjpZtJ6JvxtuiTzA.png)
+Tip: When you combine this feature with our [**Active Monitoring**](active-monitoring.md), your personal robot assistant will automatically take a snapshot of your wallet every hour, which means you can select from at least 24 different points in time per day!!!
 
 ### Is my data safe? <a id="2c6f"></a>
 
@@ -48,7 +46,7 @@ However, we also understand that, even though all data is public, WalletNow aggr
 
 To protect your data even if someone gets hold of your wallet address, you can enable our [privacy lock](privacy-lock.md) on Account Settings:
 
-![](https://miro.medium.com/max/463/0*tkHsWuznLfmaxveK)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 When you enable this feature, only the wallet owner is authorized to see the account data. You will need to login with your wallet, by signing a message \(at no cost — this signature happens offline\), which proves that you are the owner of that wallet. Read more about the login process [here](login.md).
 

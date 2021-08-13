@@ -4,7 +4,7 @@ Once you enter a wallet address, WalletNow will process all the blockchain infor
 
 On this page you will find the following information:
 
-![Account view fields](../.gitbook/assets/accountview.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 Each of the fields above is described here:
 
@@ -20,7 +20,30 @@ Each of the fields above is described here:
     <tr>
       <td style="text-align:left"><b>(1)</b> 
       </td>
-      <td style="text-align:left">Total account amount</td>
+      <td style="text-align:left">Wallet selector</td>
+      <td style="text-align:left">
+        <p>When you configure multiple wallets, you can select which one to see here,
+          or see all wallets in a consolidated view.</p>
+        <p>When you filter wallets, all totals are updated to reflect only the selected
+          one.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>(2)</b> 
+      </td>
+      <td style="text-align:left">Add wallet</td>
+      <td style="text-align:left">Click on this button configure more wallets (&#x1F3C5;Gold feature)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>(3)</b> 
+      </td>
+      <td style="text-align:left">Protocol selector</td>
+      <td style="text-align:left">Filter data by protocol</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>(4)</b> 
+      </td>
+      <td style="text-align:left">Net worth</td>
       <td style="text-align:left">
         <p>This is the consolidated &quot;<b>Net worth</b>&quot; of all your investments.</p>
         <p>If you were to take out all investments now, this is roughly how much
@@ -28,90 +51,60 @@ Each of the fields above is described here:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>(2)</b>
+      <td style="text-align:left"><b>(5)</b>
       </td>
-      <td style="text-align:left">Total account yield</td>
+      <td style="text-align:left">Total yield</td>
       <td style="text-align:left">
         <p>This is the consolidated <b>Yield Amount</b> of all your investments.</p>
         <p>Notice that not all investments are able to calculate a yield.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>(3)</b>
+      <td style="text-align:left"><b>(6)</b> 
       </td>
-      <td style="text-align:left">Total account debt</td>
+      <td style="text-align:left">Pending Yield</td>
+      <td style="text-align:left">
+        <p>This is the consolidated <b>Pending Yield Amount</b> of all your investments.</p>
+        <p>These are yields that you can harvest to re-invest if you wish</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>(7)</b>
+      </td>
+      <td style="text-align:left">Debt</td>
       <td style="text-align:left">This is the consolidated debt of all your investments.
         <br />You have debt when you take loans from protocols such as Venus and Cream.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>(4)</b>
-      </td>
-      <td style="text-align:left">Wallet alias</td>
-      <td style="text-align:left">
-        <p>If you have configured an alias for your wallet, it will show here.</p>
-        <p>Otherwise, it will show a shortened version of your wallet address</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>(5)</b>
-      </td>
-      <td style="text-align:left">Total wallet amount</td>
-      <td style="text-align:left">Same as <b>(1)</b> but for this wallet only. If you have only one wallet,
-        they will be the same.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>(6)</b>
+      <td style="text-align:left"><b>(8)</b>
       </td>
       <td style="text-align:left">Search</td>
       <td style="text-align:left">Here you can search and filter any field across all your investments</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>(7)</b>
-      </td>
-      <td style="text-align:left">Select columns</td>
-      <td style="text-align:left">Select which columns you want to see in the table</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>(8)</b>
-      </td>
-      <td style="text-align:left">Protocol</td>
-      <td style="text-align:left">
-        <p>Name of the protocol hold that investment.</p>
-        <p>See <a href="../supported-sources.md">Supported sources</a> for a list of
-          all protocols supported</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>(9)</b>
       </td>
-      <td style="text-align:left">Name</td>
-      <td style="text-align:left">Name of the investment</td>
+      <td style="text-align:left">Sort</td>
+      <td style="text-align:left">Select how to sort your investments</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>(10)</b>
       </td>
-      <td style="text-align:left">Amount</td>
-      <td style="text-align:left">
-        <p>Amount of the investment. If you were to take out that investment now,
-          this is roughly how much you would get.</p>
-        <p>Notice that some farms and pools have withdraw fees, which are not considered
-          here</p>
-      </td>
+      <td style="text-align:left">Customize</td>
+      <td style="text-align:left">Select which columns and details to see</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>(11)</b>
       </td>
-      <td style="text-align:left">Yield</td>
-      <td style="text-align:left">
-        <p>This is how much that investment has generated in Yield so far.</p>
-        <p>Notice that not all investments are able to calculate a yield.</p>
-      </td>
+      <td style="text-align:left">Time Machine</td>
+      <td style="text-align:left">See how your investments were in the past (&#x1F3C5;Gold feature)</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>(12)</b>
       </td>
-      <td style="text-align:left">Expand details</td>
-      <td style="text-align:left">Click on this icon to expand details of the investment</td>
+      <td style="text-align:left">Investments</td>
+      <td style="text-align:left">Detailed list of investments. Clicking on each investment will display
+        additional details about it. (See <a href="detailed-token-data.md">Detailed Token Data</a>)</td>
     </tr>
   </tbody>
 </table>

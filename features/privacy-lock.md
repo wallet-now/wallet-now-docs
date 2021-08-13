@@ -8,7 +8,7 @@ However, we also understand that, even though all data is public, WalletNow aggr
 
 To protect your data even if someone gets hold of your wallet address, you can enable our privacy lock on Account Settings:
 
-![](../.gitbook/assets/privacylock.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 When you enable this feature, only the wallet owner is authorized to see the account data. You will need to login with your wallet, by signing a message \(at no cost - this signature happens offline\), which proves that you are the owner of that wallet.
 

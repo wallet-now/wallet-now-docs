@@ -53,9 +53,9 @@ To register a custom vault, just open your Account Settings and add it there.
 
 
 
-![Custom vaults](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
-![Adding a custom vault](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ### Determining the configuration values
 

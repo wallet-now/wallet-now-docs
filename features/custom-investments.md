@@ -19,11 +19,9 @@ There are some important limitations with custom investments:
 
 ### Screen-shots
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
-
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ## Configuring using the Telegram bot
 
