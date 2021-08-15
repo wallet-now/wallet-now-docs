@@ -38,8 +38,10 @@ description: WalletNow currently supports the following sources of crypto invest
 | Aave | [https://aave.com/](https://aave.com/) | Polygon |
 | Swamp | [https://swamp.finance/](https://swamp.finance/) | BSC, Polygon |
 | TreeDefi | [https://treedefi.com](http://treedefi.com) | BSC |
+| Tosdis | [https://app.tosdis.finance/](https://app.tosdis.finance/) | BSC |
+| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH \(Soon\) |
 
-In addition to the protocols listed above, we will also automatically detect **any BEP20 and ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
+In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
 ### DEX support
 
@@ -60,6 +62,9 @@ In addition to the protocols listed above, we will also automatically detect **a
 | Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon |
 | Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon |
 | Cometh | [https://swap.cometh.io/](https://swap.cometh.io/) | Polygon |
+| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH \(Soon\) |
+| UniSwap V2 | [https://app.uniswap.org/](https://app.uniswap.org/) | ETH \(Soon\) |
+| SushiSwap | [https://app.sushi.com/](https://app.sushi.com/) | ETH \(Soon\) |
 
 ### **Under consideration \(no ETA\):**
 
