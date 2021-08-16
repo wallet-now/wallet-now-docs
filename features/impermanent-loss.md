@@ -4,7 +4,11 @@ Impermanent loss happens when you provide liquidity to a liquidity pool, and the
 
 **This also illustrates how much more money someone would have had if they simply held onto their assets instead of providing liquidity.**
 
-WalletNow automatically calculates and reports details about your "Liquidity Provider", including the exact amount of each token in the liquidity pool and associated the **impermanent loss**:
+WalletNow automatically calculates and reports details about your "Liquidity Provider", including the exact amount of each token in the liquidity pool and associated the **impermanent loss.** All you need to do is click on the name of any LP Token:
+
+![Click on the LP Token name](../.gitbook/assets/image%20%2858%29.png)
+
+And the following information will be displayed:
 
 ![LP Summary with Impermanent Loss](../.gitbook/assets/image%20%2838%29.png)
 
