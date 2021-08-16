@@ -10,9 +10,15 @@ In the account data page, you can click on any investment to see additional deta
 
 Also, when you click on any LP Token, you will your Liquidity Provider Summary:
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![Click on any LP Token](../.gitbook/assets/image%20%2858%29.png)
 
-And also the details about LP transactions:
+![The LP Summary will be displayed](../.gitbook/assets/image%20%2838%29.png)
+
+Details about LP transactions:
 
 ![](../.gitbook/assets/image%20%2839%29.png)
+
+If you have approved spenders for that token, all the approvals will also be displayed:
+
+![](../.gitbook/assets/image%20%2860%29.png)
 
