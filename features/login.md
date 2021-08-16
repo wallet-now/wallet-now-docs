@@ -2,7 +2,15 @@
 
 To modify any settings on your account, you will need to **Login** using your wallet.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+First, you need to open your "Account" by clicking on one of these locations:
+
+![](../.gitbook/assets/image%20%2851%29.png)
+
+![](../.gitbook/assets/image%20%2852%29.png)
+
+Then, click on the "Login" button:
+
+![](../.gitbook/assets/image%20%2854%29.png)
 
 The login process is very simple: We will request a message signature which you need to accept with your wallet application. This message signature happens completely offline, so **there is no cost for that**.
 
@@ -14,7 +22,7 @@ We currently support the following wallet applications: **MetaMask**, **Trust Wa
 
 If you wish to logout, you can do so in the same page:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 You can also configure your account to be visible only when logged-in. Read more about it [**here**](privacy-lock.md).
 

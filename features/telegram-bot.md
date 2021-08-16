@@ -14,14 +14,12 @@ With our bot you can:
 To link your Telegram account to your wallet:
 
 1. Open your wallet on WalletNow.net
-2. Click on Account Settings and make sure your are logged in. You MUST login to connect your telegram account.
-3. Click on "Link Telegram Bot" and copy the provided key
+2. Click on Account Settings and make sure your are logged in. You MUST login to connect your telegram account. \(See how to login on [this page](login.md)\)
+3. Click on "Telegram", then on "Get Key" and copy the provided key
 4. Go to Telegram and start a conversation with [@WalletNow\_Bot](https://t.me/WalletNow_Bot)
 5. Send the following command: `/link <wallet> <key>`
 
-![First, login with your wallet](../.gitbook/assets/image%20%281%29.png)
-
-![Then get the Telegram key](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 **Example command on Telegram:**
 
