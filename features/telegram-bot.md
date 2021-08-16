@@ -19,7 +19,7 @@ To link your Telegram account to your wallet:
 4. Go to Telegram and start a conversation with [@WalletNow\_Bot](https://t.me/WalletNow_Bot)
 5. Send the following command: `/link <wallet> <key>`
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 **Example command on Telegram:**
 
