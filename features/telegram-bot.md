@@ -68,7 +68,7 @@ Wallet 2 (2 tokens) |     US$ 56,09
  $AUTO              |     US$ 29,23
  $BNB               |     US$ 26,86
 Wallet 3 (1 token)  |    US$ 520,34
- $WATCH             |    US$ 520,34
+ $BNB               |    US$ 520,34
 ------------------- | -------------
 Wallet 1            | US$ 57.410,92
 Wallet 2            | US$ 12.539,25
@@ -100,7 +100,6 @@ FAIR   |      US$ 0,00
 SWAMP  |     US$ 53,18
 USDT   |      US$ 1,00
 VAI    |      US$ 0,98
-WATCH  |      US$ 1,37
 WBNB   |    US$ 532,34
 iBUSD  |      US$ 1,01
 iUSDT  |      US$ 1,01
