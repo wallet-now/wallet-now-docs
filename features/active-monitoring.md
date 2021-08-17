@@ -54,9 +54,12 @@ You can also configure this functionality using the following telegram commands:
       <td style="text-align:left">
         <p>Sets the <b>Increase threshold</b> to the given percentage</p>
         <p>Example to set the threshold to 7%:</p>
-        <p><code>/monitor price increase 7</code>
+        <p><code>/monitor price increase 7%</code>
         </p>
-        <p>You can also set this to 0 (zero) to disable Price Increase checks</p>
+        <p><em>(The &apos;%&apos; is optional, so the following also works):</em>
+          <br
+          /><code>/monitor price increase 7</code>
+          <br />You can also set this to 0 (zero) to disable Price Increase checks</p>
       </td>
     </tr>
     <tr>
@@ -65,7 +68,11 @@ You can also configure this functionality using the following telegram commands:
       <td style="text-align:left">
         <p>Sets the <b>Drop threshold</b> to the given percentage</p>
         <p>Example to set the threshold to 7%:</p>
-        <p><code>/monitor price drop 7</code>
+        <p><code>/monitor price drop 7%</code>
+        </p>
+        <p><em>(The &apos;%&apos; is optional, so the following also works):</em>
+          <br
+          /><code>/monitor price drop 7</code>
         </p>
         <p>You can also set this to 0 (zero) to disable Price Drop checks</p>
       </td>
