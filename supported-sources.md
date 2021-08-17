@@ -39,32 +39,33 @@ description: WalletNow currently supports the following sources of crypto invest
 | Swamp | [https://swamp.finance/](https://swamp.finance/) | BSC, Polygon |
 | TreeDefi | [https://treedefi.com](http://treedefi.com) | BSC |
 | Tosdis | [https://app.tosdis.finance/](https://app.tosdis.finance/) | BSC |
-| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH \(Soon\) |
+| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
 ### DEX support
 
-| Protocol | Website | Chains |
-| :--- | :--- | :--- |
-| PancakeSwap V1 \(PCS V1\) | [https://v1exchange.pancakeswap.finance/](https://v1exchange.pancakeswap.finance/) | BSC |
-| PancakeSwap V2 \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) | BSC |
-| HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) | BSC |
-| MDex | [https://mdex.com/](https://mdex.com/) | BSC |
-| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC, Polygon |
-| PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | BSC |
-| BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | BSC |
-| WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC, Polygon |
-| CheeseSwap | [https://cheeseswap.app/](https://cheeseswap.app/) | BSC |
-| JulSwap | [https://julswap.com/](https://julswap.com/) | BSC |
-| SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon |
-| QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon |
-| Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon |
-| Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon |
-| Cometh | [https://swap.cometh.io/](https://swap.cometh.io/) | Polygon |
-| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH \(Soon\) |
-| UniSwap V2 | [https://app.uniswap.org/](https://app.uniswap.org/) | ETH \(Soon\) |
-| SushiSwap | [https://app.sushi.com/](https://app.sushi.com/) | ETH \(Soon\) |
+| Protocol | Website | Chains | Prices? |
+| :--- | :--- | :--- | :--- |
+| PancakeSwap V1 \(PCS V1\) | [https://v1exchange.pancakeswap.finance/](https://v1exchange.pancakeswap.finance/) | BSC | Yes ✅ |
+| PancakeSwap V2 \(PCS V2\) | [https://pancakeswap.finance/](https://pancakeswap.finance/) | BSC | Yes ✅ |
+| HyperJump | [https://hyperjump.fi/](https://hyperjump.fi/) | BSC | Yes ✅ |
+| MDex | [https://mdex.com/](https://mdex.com/) | BSC | Yes ✅ |
+| ApeSwap | [https://apeswap.finance/](https://apeswap.finance/) | BSC, Polygon | Yes ✅ |
+| PantherSwap | [https://pantherswap.com/](https://pantherswap.com/) | BSC | Yes ✅ |
+| BakerySwap | [https://www.bakeryswap.org/](https://www.bakeryswap.org/) | BSC | Yes ✅ |
+| WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC, Polygon | Yes ✅ |
+| CheeseSwap | [https://cheeseswap.app/](https://cheeseswap.app/) | BSC | No |
+| JulSwap | [https://julswap.com/](https://julswap.com/) | BSC | Yes ✅ |
+| SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon | Yes ✅ |
+| QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon | Yes ✅ |
+| Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon | Yes ✅ |
+| Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon | Yes ✅ |
+| Cometh | [https://swap.cometh.io/](https://swap.cometh.io/) | Polygon | Yes ✅ |
+| 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH | Yes ✅ |
+| UniSwap V2 | [https://app.uniswap.org/](https://app.uniswap.org/) | ETH | Yes ✅ |
+| SushiSwap | [https://app.sushi.com/](https://app.sushi.com/) | ETH | Yes ✅ |
+| CobraSwap | [https://cobra.exchange/](https://cobra.exchange/) | BSC | No |
 
 ### **Under consideration \(no ETA\):**
 
