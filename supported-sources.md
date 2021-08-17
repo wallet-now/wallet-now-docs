@@ -66,6 +66,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | UniSwap V2 | [https://app.uniswap.org/](https://app.uniswap.org/) | ETH | Yes ✅ |
 | SushiSwap | [https://app.sushi.com/](https://app.sushi.com/) | ETH | Yes ✅ |
 | CobraSwap | [https://cobra.exchange/](https://cobra.exchange/) | BSC | No |
+| Biswap | [https://biswap.org/](https://biswap.org/) | BSC | No |
 
 ### **Under consideration \(no ETA\):**
 
