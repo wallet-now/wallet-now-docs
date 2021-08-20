@@ -40,10 +40,16 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 ### August 2021
 
 * ✅ Major UI redesign
-* Second cross-chain integration \(Ethererum\)
+* ✅ Second cross-chain integration \(Ethererum \| ETH\)
+* ✅ Third cross-chain integration \(Fantom Opera \| FTM\)
+* ✅ Launch our first farming pool on Tosdis \(WNOW-BNB\)
+* ✅ First airdrop promotion in partnership with AerDrop
+* ✅ Launch platform for "free trial" partnerships
 
 ### Q4 2021
 
+* List WNOW on CoinMaketCap
+* List WNOW on CoinGecko
 * Integrate more exchanges \(off-chain\)
 * Full cross-chain \(support for all major chains\)
 
