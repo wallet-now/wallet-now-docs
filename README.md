@@ -1,7 +1,5 @@
 ---
-description: >-
-  Easy Crypto & DeFi Monitoring for the Binance Smart chain, Polygon and
-  Ethereum
+description: Easy Crypto & DeFi Monitoring
 ---
 
 # WalletNow

@@ -13,10 +13,12 @@ description: WalletNow currently supports the following sources of crypto invest
 
 ## DeFi \(On-chain\)
 
+**Supported chains:** Binance Smart Chain \(BSC\), Polygon, Ethereum \(ETH\) and Fantom Opera \(FTM\)
+
 | Protocol | Website | Chains |
 | :--- | :--- | :--- |
-| Wallet holdings | N/A \(any BEP20 or ERC token\) | BSC, Polygon |
-| Custom Vaults | [Read the docs here](features/custom-vaults.md) | BSC, Polygon |
+| Wallet holdings | N/A \(any BEP20 or ERC token\) | BSC, Polygon, ETH, FTM |
+| Custom Vaults | [Read the docs here](features/custom-vaults.md) | BSC, Polygon, ETH, FTM |
 | AutoFarm | [https://autofarm.network/](https://autofarm.network/) | BSC, Polygon |
 | Beefy | [https://app.beefy.finance/](https://app.beefy.finance/) | BSC, Polygon |
 | Blizzard | [https://www.blizzard.money/](https://www.blizzard.money/) | BSC |
@@ -38,7 +40,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | Aave | [https://aave.com/](https://aave.com/) | Polygon |
 | Swamp | [https://swamp.finance/](https://swamp.finance/) | BSC, Polygon |
 | TreeDefi | [https://treedefi.com](http://treedefi.com) | BSC |
-| Tosdis | [https://app.tosdis.finance/](https://app.tosdis.finance/) | BSC |
+| Tosdis | [https://app.tosdis.finance/](https://app.tosdis.finance/) | BSC, ETH, FTM |
 | 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
@@ -67,6 +69,8 @@ In addition to the protocols listed above, we will also automatically detect **a
 | SushiSwap | [https://app.sushi.com/](https://app.sushi.com/) | ETH | Yes ✅ |
 | CobraSwap | [https://cobra.exchange/](https://cobra.exchange/) | BSC | No |
 | Biswap | [https://biswap.org/](https://biswap.org/) | BSC | No |
+| SpookySwap | [https://spookyswap.finance/](https://spookyswap.finance/) | FTM | Yes ✅ |
+| SpiritSwap | [https://app.spiritswap.finance/\#/](https://app.spiritswap.finance/#/) | FTM | Yes ✅ |
 
 ### **Under consideration \(no ETA\):**
 
