@@ -42,8 +42,9 @@ Read more about the exact mechanism here: [https://walletnow.medium.com/announci
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">View all your DeFi investments on BSC and Polygon, including all tokens
-        and an ever-growing list of farms, pools and vaults!</td>
+      <td style="text-align:left">View all your DeFi investments on BSC, Polygon Ethereum and Fantom Opera.
+        Including <b>all tokens</b> and an ever-growing list of farms, pools and
+        vaults!</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2705;</td>
