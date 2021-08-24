@@ -43,6 +43,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | Tosdis | [https://app.tosdis.finance/](https://app.tosdis.finance/) | BSC, ETH, FTM |
 | 1inch | [https://app.1inch.io/](https://app.1inch.io/) | ETH |
 | SpookySwap | [https://spookyswap.finance/](https://spookyswap.finance/) | FTM |
+| AerDrop | [https://app.aerdrop.finance/farms](https://app.aerdrop.finance/farms) | BSC |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 

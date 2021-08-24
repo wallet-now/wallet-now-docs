@@ -22,6 +22,7 @@
 * [Multiple Wallets](features/multiple-wallets.md)
 * [Privacy Lock](features/privacy-lock.md)
 * [Time Machine](features/time-machine.md)
+* [Token ignore list](features/token-ignore-list.md)
 
 ## Support
 

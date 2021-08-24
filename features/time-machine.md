@@ -6,11 +6,13 @@ description: >-
 
 # Time Machine
 
-WalletNow **Time Machine** allows you to select a point in time and view your portfolio as if you were looking at it in the past. You can even see all the internal token details, and all exchange rates from that time!
+Our **Time Machine** allows you to select a point in time and view your portfolio as if you were looking at it in the past. You can even see all the internal token details, and all exchange rates from that time!
+
+This feature is available only on our Gold 🏅 membership. [See all plans here](../pricing.md).
 
 You can also read more about this cool feature on our medium article: [https://walletnow.medium.com/introducing-walletnow-time-machine-a94172d3be3a](https://walletnow.medium.com/introducing-walletnow-time-machine-a94172d3be3a)
 
-To use this feature:
+To use it:
 
 * Click on "Time Machine" 🗓
 * Select a date from the list and then select a time from that date
