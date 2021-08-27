@@ -63,7 +63,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | WaultSwap | [https://swap.wault.finance/](https://swap.wault.finance/#/swap) | BSC, Polygon | Yes ✅ |
 | CheeseSwap | [https://cheeseswap.app/](https://cheeseswap.app/) | BSC | No |
 | JulSwap | [https://julswap.com/](https://julswap.com/) | BSC | Yes ✅ |
-| SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon | Yes ✅ |
+| SushiSwap | [https://sushi.com/](https://sushi.com/) | Polygon, FTM | Yes ✅ |
 | QuickSwap | [https://quickswap.exchange/](https://quickswap.exchange/#/swap) | Polygon | Yes ✅ |
 | Dfyn | [https://exchange.dfyn.network/](https://exchange.dfyn.network/) | Polygon | Yes ✅ |
 | Firebird | [https://firebird.finance/](https://firebird.finance/) | Polygon | Yes ✅ |
