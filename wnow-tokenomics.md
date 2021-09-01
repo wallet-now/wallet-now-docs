@@ -13,9 +13,9 @@ description: $WNOW is our utility token
 * **Fixed supply:** 10.000.000 \(10 million\) **$WNOW**.
 * **Private sale:** 10% \(1MM **$WNOW**\). Used exclusively for marketing.
   * **Round 1:** \(Sold out\) 500K tokens for our early adopters and supporters, with immediate vesting.
-  * **Round 2:** \(Planned\) 500K tokens reserved for another future round of private sale with long-term vesting. To be confirmed: will be converted to "IFO" if not used in a private sale.
+  * **Round 2:** \(Planned\) 500K tokens reserved for another future round of private sale with long-term vesting.
 * **Initial liquidity:** 5% \(500K **$WNOW**\)
-* **IFO:** 30% \(3MM $WNOW\). We are looking for reputable protocols to host our IFO
+* **IFO:** 30% \(3MM $WNOW\)
 * **Project operation:** 25% \(3MM **$WNOW**\)
 * **Team:** 30% \(3MM **$WNOW**\)
 
