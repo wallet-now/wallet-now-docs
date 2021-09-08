@@ -23,6 +23,7 @@
 * [Privacy Lock](features/privacy-lock.md)
 * [Time Machine](features/time-machine.md)
 * [Token ignore list](features/token-ignore-list.md)
+* [View NFTs](features/view-nfts.md)
 
 ## Support
 

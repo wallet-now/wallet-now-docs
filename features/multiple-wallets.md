@@ -2,7 +2,7 @@
 
 Would you like to split your investments across multiple wallets for extra security, but still monitor them all in a consolidated view? We too!
 
-With WalletNow, you can register up to **five wallets per account**, and see all of them in a consolidated view in both the website and the Telegram Bot!
+With WalletNow, you can register up to **15 wallets per account**, and see all of them in a consolidated view in both the website and the Telegram Bot! Gold members are limited to five wallets, while Diamond members can add up to fifteen!
 
 To register additional wallets, open "Account Settings" and add them. You can also manage those using the [Telegram Bot](telegram-bot.md).
 

@@ -1,16 +1,16 @@
 # Pricing
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2866%29.png)
 
 WalletNow is **free forever**. It will always have a free plan available for you to use - period!
 
-However, to cover for the infrastructure and development costs, we also offer our SILVER and GOLD plans, which unlock our most advanced features.
+However, to cover for the infrastructure and development costs, we also offer our SILVER, GOLD and DIAMOND plans, which unlock our most advanced features.
 
 ### How do I upgrade my plan?
 
 On your account, click on the "medal" 🏅 icon, and a popup similar to this will be displayed:
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](.gitbook/assets/image%20%2865%29.png)
 
 See the number of tokens that you need to purchase to active a given tier, and buy [**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
 
@@ -22,7 +22,8 @@ Our membership plans are:
 
 * **Free:** Free forever! Basic functionality available to everyone.
 * **Silver:** Every $1 worth of **$WNOW** held allows monitoring up to $300 of portfolio.
-* **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio without any limitations.
+* **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio.
+* **Diamond:** Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio, with minimum of requirement of $100.
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
 Read more about the exact mechanism here: [https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626](https://walletnow.medium.com/announcing-walletnow-membership-plans-6c9d87dd2626)
@@ -31,96 +32,32 @@ Read more about the exact mechanism here: [https://walletnow.medium.com/announci
 
 **The features included with each tier are detailed below:**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Features</th>
-      <th style="text-align:left">Free</th>
-      <th style="text-align:left">Silver</th>
-      <th style="text-align:left">Gold</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">View all your DeFi investments on BSC, Polygon Ethereum and Fantom Opera.
-        Including <b>all tokens</b> and an ever-growing list of farms, pools and
-        vaults!</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="features/detailed-token-data.md">Detailed views</a>, including
-        per-token details, 46 fiat currency conversions, LP Token breakdown, and
-        <a
-        href="features/impermanent-loss.md">Impermanent Loss</a>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="features/telegram-bot.md">Telegram bot</a>: Check your portfolio
-        status anywhere, any time</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="features/privacy-lock.md">Privacy Lock</a>: Make your wallet&apos;s
-        data accessible only for you</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Add up to <a href="features/multiple-wallets.md">five wallets per account</a>.
-        See them all as part of the same account, along with aggregated totals</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="features/active-monitoring.md">Active monitoring</a> with alarms
-        on your Telegram. Get notified if your investments suffers abnormal volatility.</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><a href="features/binance-exchange-integration.md">Link with your Binance Exchange</a> account
-          to see off-chain crypto investments combined, all in one place.</p>
-        <p><em>(More exchanges coming soon!)</em>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Register customized crypto <a href="features/custom-investments.md">investments</a> and
-        <a
-        href="features/custom-vaults.md">vaults</a>from unsupported locations. All your portfolio in one place!</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="features/time-machine.md">Time Machine</a>: See how your investments
-        were in the past. Complete including historical conversion rates.</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left">&#x2705;</td>
-    </tr>
-  </tbody>
-</table>
+| Features | Free | Silver | Gold | Diamond |
+| :--- | :--- | :--- | :--- | :--- |
+| View all your DeFi investments on BSC, Polygon Ethereum and Fantom Opera. Including **all tokens** and an ever-growing list of farms, pools and vaults! |     ✅              |     ✅             |     ✅              |       ✅ |
+| [Detailed views](features/detailed-token-data.md), including per-token details, 46 fiat currency conversions, LP Token breakdown, and [Impermanent Loss](features/impermanent-loss.md) |  |     ✅        |     ✅        |       ✅ |
+| [Telegram bot](features/telegram-bot.md): Check your portfolio status anywhere, any time |  |     ✅        |     ✅        |       ✅ |
+| [Privacy Lock](features/privacy-lock.md): Make your wallet's data accessible only for you |  |     ✅        |     ✅        |       ✅ |
+| Add up to [five wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals |  |  |     ✅        |       ✅ |
+| [Active monitoring](features/active-monitoring.md) with alarms on your Telegram. Get notified if your investments suffers abnormal volatility. |  |  |     ✅        |       ✅ |
+| [Link with your Binance Exchange](features/binance-exchange-integration.md) account to see off-chain crypto investments combined, all in one place. |  |  |     ✅        |       ✅ |
+| Register customized crypto [investments](features/custom-investments.md) and [vaults](features/custom-vaults.md) from unsupported locations. All your portfolio in one place! |  |  |     ✅        |       ✅ |
+| [Time Machine](features/time-machine.md): See how your investments were in the past. Complete including historical conversion rates. |  |  |     ✅        |       ✅ |
+| [View all your NFTs](features/view-nfts.md) \(non-fungible tokens\) |  |  |  |       ✅ |
+| Add up to [15 wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals |  |  |  |       ✅ |
 
 #### Disclaimer
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
+
+#### Portfolio Calculation mechanism
+
+All investments supported by WalletNow count towards your "portfolio amount". Including, but not limited to:
+
+* Token holdings on your wallet
+* Liquidity Provider tokens
+* Tokens invested on any protocol
+* Borrows and Lends on lending protocols \(both borrows and lends count positively\)
+
+For token holdings on your wallet, each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100.
 
