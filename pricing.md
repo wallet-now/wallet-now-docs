@@ -16,17 +16,16 @@ See the number of tokens that you need to purchase to active a given tier, and b
 
 ### WalletNow Membership <a id="e44b"></a>
 
-To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens on BSC. You can also add liquidity in any of our supported DEXes for additional benefits \(10% bonus\).
-
+To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens on BSC.  
 Our membership plans are:
 
 * **Free:** Free forever! Basic functionality available to everyone.
 * **Silver :** Every $1 worth of **$WNOW** allows monitoring up to $300 of portfolio.
 * **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio.
-* **Diamond:** Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio, with minimum of requirement of $100.
+* **Diamond:** Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio, with a minimum  requirement of $100 owned.
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
-Read more about the exact mechanism down below.
+Read more about the exact calculation mechanism [down below](pricing.md#membership-calculation-mechanism).
 
 \*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(BSC-only at this moment, but it is valid for all supported chains\)
 

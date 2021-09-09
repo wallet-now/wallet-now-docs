@@ -15,7 +15,7 @@ description: $WNOW is our utility token
   * **Round 1:** \(Sold out\) 500K tokens for our early adopters and supporters, with immediate vesting.
   * **Round 2:** \(Planned\) 500K tokens reserved for another future round of private sale with long-term vesting.
 * **Initial liquidity:** 5% \(500K **$WNOW**\)
-* **IFO:** 30% \(3MM $WNOW\)
+* **Farming:** 30% \(3MM $WNOW\)
 * **Project operation:** 25% \(3MM **$WNOW**\)
 * **Team:** 30% \(3MM **$WNOW**\)
 
