@@ -46,6 +46,13 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 * ✅ First airdrop promotion in partnership with AerDrop
 * ✅ Launch platform for "free trial" partnerships
 
+### September 2021
+
+* ✅ Expand partnerships
+* ✅ Launch our "Diamond Membership" tier
+* ✅ NFTs support, including NFTs viewer
+* ✅ Support for up to 15 wallets per account \(diamond\)
+
 ### Q4 2021
 
 * List WNOW on CoinMaketCap
