@@ -30,7 +30,7 @@ Read more about the exact mechanism down below.
 
 \*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(BSC-only at this moment, but it is valid for all supported chains\)
 
-**The features included with each tier are detailed below:**
+### **Features included on each tier**
 
 | Features | Free | Silver | Gold | Diamond |
 | :--- | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ Read more about the exact mechanism down below.
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 
-#### Portfolio Calculation mechanism
+### Membership Calculation mechanism
 
 All investments supported by WalletNow count towards your "portfolio amount". Including, but not limited to:
 
@@ -58,5 +58,18 @@ All investments supported by WalletNow count towards your "portfolio amount". In
 * Tokens invested on any protocol
 * Borrows and Lends on lending protocols \(both borrows and lends count positively\)
 
-For token holdings on your wallet, each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100.
+The following exceptions are applied to the portfolio amount:
+
+* For token holdings on your wallet, each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100
+* Holding $WNOW does not count towards your portfolio
+
+Once your portfolio amount is determined, we check how much $WNOW you own. Everything counts:
+
+* $WNOW held in the wallet
+* $WNOW LP tokens from any supported DEX
+* $WNOW or LP invested on any protocol
+
+**However, it is important to highlight that only the $WNOW owned by your primary wallet counts towards the membership. Secondary wallets count towards your portfolio amount but do not count for the WNOW membership.**
+
+Then, it is only a matter of comparing the amount of WNOW owned vs your portfolio size to determine the active membership tier.
 
