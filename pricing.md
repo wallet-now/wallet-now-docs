@@ -25,6 +25,8 @@ Our membership plans are:
 * **Diamond:** Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio, with a minimum  requirement of $100 owned.
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
+**Example:** If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to active the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
+
 Read more about the exact calculation mechanism [down below](pricing.md#membership-calculation-mechanism).
 
 \*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(BSC-only at this moment, but it is valid for all supported chains\)
