@@ -12,7 +12,7 @@ On your account, click on the "medal" 🏅 icon, and a popup similar to this wil
 
 ![](.gitbook/assets/image%20%2865%29.png)
 
-See the number of tokens that you need to purchase to active a given tier, and buy [**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
+See the number of tokens that you need to purchase to active a given tier, and check [**How to $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
 
 ### WalletNow Membership <a id="e44b"></a>
 
@@ -29,7 +29,7 @@ Our membership plans are:
 
 Read more about the exact calculation mechanism [down below](pricing.md#membership-calculation-mechanism).
 
-\*\*\*\*[**Buy $WNOW on PancakeSwap**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x56aa0237244c67b9a854b4efe8479cca0b105289) ****\(BSC-only at this moment, but it is valid for all supported chains\)
+\*\*\*\*[**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(BSC-only at this moment, but it is valid for all supported chains\)
 
 ### **Features included on each tier**
 
