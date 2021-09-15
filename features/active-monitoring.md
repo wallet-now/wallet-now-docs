@@ -1,6 +1,6 @@
 # Active Monitoring
 
-Your [Telegram Bot](telegram-bot.md) comes with another cool feature: Active Monitoring of all your tokens!
+Your [Telegram Bot](telegram-bot.md) comes with another cool feature: Active Monitoring of all your tokens and notifications about your investments!
 
 When you enable active monitoring, you will be automatically notified if there is any abnormal volatility in any of your investments \(any tokens you are currently holding or are locked in an investment\).
 
@@ -27,6 +27,14 @@ You can configure the following settings for this feature:
 | Time window | Number of hours in the past that Wallet Now will look to check for price differences. The default is 1 hour, which means that alerts are generated for price changes on that period. |
 | Price Increase | Only notify about price increases higher than the given percentage \(E.g.: Alert if any price increases more than 6% in one hour\) |
 | Price Drop | Only notify about price drops higher than the given percentage \(E.g.: Alert if any price drops more than 6% in one hour\) |
+
+## Notifications about your investments
+
+Some protocols may also include special notifications as part of our Active Monitoring. For example, RugZombie will notify once your NFTs have been crafted and are ready to be minted. Other protocols may notify you if they retire a pool where you are investing. Different protocols may have different types of notifications.
+
+All you need to do to activate this feature is to ensure that you are on the "Diamond membership" \([see our plans](../pricing.md)\). You also need to have Active Monitoring enabled, of course!
+
+Each notification will be sent **only once** to your Telegram, but you can list all your notifications at any time using the **/notifications** command on the Telegram Bot.
 
 ## Configuring via Telegram commands
 

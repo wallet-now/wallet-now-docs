@@ -47,6 +47,7 @@ Read more about the exact calculation mechanism [down below](pricing.md#membersh
 | [Time Machine](features/time-machine.md): See how your investments were in the past. Complete including historical conversion rates. |  |  | ✅ | ✅ |
 | [View all your NFTs](features/view-nfts.md) \(non-fungible tokens\), including their media \(image/video\) |  |  |  | ✅ |
 | Add up to [15 wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals |  |  |  | ✅ |
+| Receive [important notifications](features/active-monitoring.md#notifications-about-your-investments) about your investments |  |  |  | ✅ |
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 
