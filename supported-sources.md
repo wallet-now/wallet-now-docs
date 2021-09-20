@@ -83,6 +83,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | SpookySwap | [https://spookyswap.finance/](https://spookyswap.finance/) | FTM | Yes ✅ |
 | SpiritSwap | [https://app.spiritswap.finance/](https://app.spiritswap.finance/#/) | FTM | Yes ✅ |
 | AutoShark | [https://autoshark.finance/swap](https://autoshark.finance/swap) | BSC | No |
+| DonkSwap | [https://donkswap.com/](https://donkswap.com/) | BSC | No |
 
 ### **Under consideration \(no ETA\):**
 
