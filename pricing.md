@@ -12,7 +12,7 @@ On your account, click on the "medal" 🏅 icon, and a popup similar to this wil
 
 ![](.gitbook/assets/image%20%2865%29.png)
 
-See the number of tokens that you need to purchase to active a given tier, and check [**How to $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
+See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
 
 ### WalletNow Membership <a id="e44b"></a>
 
