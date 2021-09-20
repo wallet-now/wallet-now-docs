@@ -11,6 +11,7 @@ description: $WNOW is our utility token
 * **Name:** WalletNow
 * **Address:** [0x56aa0237244c67b9a854b4efe8479cca0b105289](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)
 * **Fixed supply:** 10.000.000 \(10 million\) **$WNOW**.
+  * **Ownership renounced** \(no new tokens can ever be created\)
 * **Private sale:** 10% \(1MM **$WNOW**\). Used exclusively for marketing.
   * **Round 1:** \(Sold out\) 500K tokens for our early adopters and supporters, with immediate vesting.
   * **Round 2:** \(Planned\) 500K tokens reserved for another future round of private sale with long-term vesting.
