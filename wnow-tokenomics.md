@@ -17,7 +17,7 @@ description: $WNOW is our utility token
   * **Round 2:** \(Planned\) 500K tokens reserved for another future round of private sale with long-term vesting.
 * **Initial liquidity:** 5% \(500K **$WNOW**\)
 * **Farming:** 30% \(3MM $WNOW\)
-* **Project operation:** 25% \(3MM **$WNOW**\)
+* **Project operation:** 25% \(2.5MM **$WNOW**\)
 * **Team:** 30% \(3MM **$WNOW**\)
 
 \*\*\*\*[**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396)
