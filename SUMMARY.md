@@ -29,4 +29,6 @@
 
 * [Report a problem](support/report-a-problem.md)
 * [Make a request](support/make-a-request.md)
+* [FAQ](support/faq/README.md)
+  * [Add to home screen](support/faq/add-to-home-screen.md)
 
