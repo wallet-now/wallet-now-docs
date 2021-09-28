@@ -84,8 +84,10 @@ In addition to the protocols listed above, we will also automatically detect **a
 | SpiritSwap | [https://app.spiritswap.finance/](https://app.spiritswap.finance/#/) | FTM | Yes ✅ |
 | AutoShark | [https://autoshark.finance/swap](https://autoshark.finance/swap) | BSC | No |
 | DonkSwap | [https://donkswap.com/](https://donkswap.com/) | BSC | No |
+| ShibaNova | [https://shibanova.io/](https://shibanova.io/) | BSC | No |
+| ProtoFi | [https://bank.protofi.app/](https://bank.protofi.app/) | Polygon | No |
 
-### **Under consideration \(no ETA\):**
+### **Request new integrations:**
 
 \*\*\*\*[**https://github.com/wallet-now/wallet-now/labels/integration**](https://github.com/wallet-now/wallet-now/labels/integration)\*\*\*\*
 
