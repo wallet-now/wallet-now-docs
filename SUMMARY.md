@@ -7,6 +7,7 @@
 * [WNOW Tokenomics](wnow-tokenomics.md)
 * [Roadmap](roadmap.md)
 * [Pricing](pricing.md)
+* [Audits](audits.md)
 
 ## Features
 
