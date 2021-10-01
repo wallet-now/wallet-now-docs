@@ -4,6 +4,10 @@ Your [Telegram Bot](telegram-bot.md) comes with another cool feature: Active Mon
 
 When you enable active monitoring, you will be automatically notified if there is any abnormal volatility in any of your investments \(any tokens you are currently holding or are locked in an investment\).
 
+That's right! All your portfolio is automatically monitored out of the box. When you buy any new token, or invest on any new farm, pool, stake, etc, WalletNow will automatically detect it and start monitoring it — you don't need to move a finger for that.
+
+Did you decide to stop investing in a given token and swapped it for other ones? No problem: Active Monitoring will automatically stop tracking the old token and start tracking all the new tokens you purchased.
+
 ```text
 🤖 WalletNow Bot:
 WalletNow Active Monitoring
