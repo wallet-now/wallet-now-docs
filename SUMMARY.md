@@ -25,6 +25,7 @@
 * [Time Machine](features/time-machine.md)
 * [Token ignore list](features/token-ignore-list.md)
 * [View NFTs](features/view-nfts.md)
+* [Export data to CSV \(Excel\)](features/export-data-to-csv-excel.md)
 
 ## Support
 

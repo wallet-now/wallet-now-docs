@@ -54,6 +54,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | RoboVault | [https://robo-vault.com/](https://robo-vault.com/) | FTM |
 | Chupacabra | [https://chupacabra.finance/](https://chupacabra.finance/) | BSC |
 | ProtoFi | [https://protofi.app/](https://protofi.app/) | Polygon |
+| ShibaNova | [https://shibanova.io/](https://shibanova.io/) | BSC |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" \(Liquidity Provider / Liquidity Pool Token\), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes \(Distributed Exchanges\) supported at this moment.
 
