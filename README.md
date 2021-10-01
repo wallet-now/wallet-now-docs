@@ -10,7 +10,7 @@ Check it out now for free on [walletnow.net](https://walletnow.net)
 
 We would love to hear your feedback! Please join our [Telegram Groups](stay-tuned.md) and share your experience.
 
-![](.gitbook/assets/banner_twitter.png)
+![](.gitbook/assets/walletnow-thumbnail-1.jpg)
 
 ### Our cool features
 
