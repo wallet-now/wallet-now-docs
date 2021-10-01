@@ -6,7 +6,7 @@ Exporting data to CSV allows you to open all your portfolio data in Excel or any
 
 To use this feature, it is very simple: Just click on the "three dots" right next to the plan details, and select "Export data to CSV \(Excel\)":
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 Just open the downloaded file on your favorite spreadsheet manager and start processing it! Oh, and it even works with the "Time Machine" so you can export data from the past as well.
 
