@@ -12,7 +12,7 @@ On your account, click on the "medal" 🏅 icon, and a popup similar to this wil
 
 ![](.gitbook/assets/image%20%2865%29.png)
 
-See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
+See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains\).
 
 ### WalletNow Membership <a id="e44b"></a>
 
@@ -25,11 +25,11 @@ Our membership plans are:
 * **Diamond:** Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio, with a minimum  requirement of $100 owned.
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes \(we recommend BNB-WNOW on PancakeSwap\).
 
-**Example:** If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to active the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
+**Example:** If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to activate the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
 
 Read more about the exact calculation mechanism [down below](pricing.md#membership-calculation-mechanism).
 
-\*\*\*\*[**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(BSC-only at this moment, but it is valid for all supported chains\)
+\*\*\*\*[**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) ****\(BSC-only at this moment, but it is valid for all supported chains\)
 
 ### **Features included on each tier**
 
@@ -65,7 +65,7 @@ The following exceptions are applied to the portfolio amount:
 * For token holdings on your wallet, each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100
 * Holding $WNOW does not count towards your portfolio
 
-Once your portfolio amount is determined, we check how much $WNOW you own. Everything counts:
+Once your portfolio amount is determined, we check how much $WNOW you own:
 
 * $WNOW held in the wallet
 * $WNOW LP tokens from any supported DEX
