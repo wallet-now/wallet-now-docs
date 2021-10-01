@@ -29,6 +29,15 @@ Each individual field is explained below:
       <td style="text-align:left">Total number of $WNOW tokens that you own</td>
     </tr>
     <tr>
+      <td style="text-align:left">Liquidity Bonus</td>
+      <td style="text-align:left">
+        <p>If you have added WNOW liquidity on any of our supported DEXes, you receive
+          a 10% bonus, so you need less tokens for the same portfolio amount.</p>
+        <p>Even if you stake those LP Tokens on a farm, they still count with the
+          10% Bonus.</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Your Portfolio</td>
       <td style="text-align:left">Your portfolio size (in US Dollars)</td>
     </tr>
