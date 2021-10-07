@@ -8,7 +8,11 @@ On WalletNow you can quickly ignore any token that you would like, without havin
 
 ### In the token details:
 
-![Ignore token on Token details](../.gitbook/assets/image%20%2862%29.png)
+![Ignore token on Token details](../.gitbook/assets/image%20%2872%29.png)
+
+When ignoring the token here, you can also report it as a SCAM token, so the team will very it and block it globally for all WalletNow users.
+
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ### In the account settings:
 
@@ -16,5 +20,5 @@ On WalletNow you can quickly ignore any token that you would like, without havin
 
 ### Using the Telegram Bot:
 
-**UNDER CONSTRUCTION**
+You can ignore tokens using the **/ignore** command on the telegram bot as well
 
