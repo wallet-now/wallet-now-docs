@@ -1,6 +1,5 @@
 # Make a request
 
-Please open feature requests [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). You will need a **Github account** for that.
+You can suggest features and integrations here: [**feedback.walletnow.net**](https://feedback.walletnow.net)****
 
-Alternatively, just ask on our Telegram group and we will open it for you!
-
+Top-voted features are always being evaluated by the team. We strive to keep up with the requests, but please keep in mind that we can't guarantee any feature implementation.
