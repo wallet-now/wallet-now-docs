@@ -92,6 +92,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | ShibaNova               | [https://shibanova.io/](https://shibanova.io)                                     | BSC          | No      |
 | ProtoFi                 | [https://bank.protofi.app/](https://bank.protofi.app)                             | Polygon      | No      |
 | BabySwap                | [https://babyswap.finance/](https://home.babyswap.finance)                        | BSC          | no      |
+| JetSwap                 | [https://jetswap.finance/](https://jetswap.finance)                               | Polygon      | Yes ✅   |
 
 ### **Request new integrations:**
 
