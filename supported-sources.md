@@ -96,9 +96,9 @@ In addition to the protocols listed above, we will also automatically detect **a
 
 ### **Request new integrations:**
 
-****[**https://github.com/wallet-now/wallet-now/labels/integration**](https://github.com/wallet-now/wallet-now/labels/integration)****
+****[**https://feedback.walletnow.net/**](https://feedback.walletnow.net)****
 
-Would you like to request support for a new protocol? You can open a request [**here**](https://github.com/wallet-now/wallet-now/issues/new/choose). If you are the owner/leader of a protocol and you can provide technical details about the integration, it will greatly speed-up the process, otherwise it will be put in a queue for prioritization.
+Would you like to request support for a new protocol? You can open a request on the link above. If you are the owner/leader of a protocol and you can provide technical details about the integration, ping **@Willy\_Now** on Telegram as it will greatly speed-up the process, otherwise it will be put in a queue for prioritization.
 
 ##
 
