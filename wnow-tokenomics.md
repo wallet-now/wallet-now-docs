@@ -10,7 +10,8 @@ description: $WNOW is our utility token
 * **Symbol:** WNOW
 * **Name:** WalletNow
 * **Addresses:**
-  * &#x20;[0x56aa0237244c67b9a854b4efe8479cca0b105289](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)
+  * **BSC:**B [0x56aa0237244c67b9a854b4efe8479cca0b105289](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)
+  * **FTM:** [0xa9cad0165c155f3998b0001b3ef30bca0aa6b591](https://ftmscan.com/token/0xa9cad0165c155f3998b0001b3ef30bca0aa6b591)
 * **Fixed supply:** 10.000.000 (10 million) **$WNOW**.
   * **Ownership renounced** (no new tokens can ever be created)
 * **Private sale:** 10% (1MM **$WNOW**). Used exclusively for marketing.
@@ -21,6 +22,6 @@ description: $WNOW is our utility token
 * **Project operation:** 25% (2.5MM **$WNOW**)
 * **Team:** 30% (3MM **$WNOW**)
 
-****[**How to buy $WNOW on PancakeSwap**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396)
+****[**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396)
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.

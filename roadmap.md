@@ -20,7 +20,7 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 * ✅ More wallet apps
 * ✅ Time Machine
 * ✅ $WNOW token launch and private sale
-* ✅ Support for +12 protocols \(total of 19\)
+* ✅ Support for +12 protocols (total of 19)
 * ✅ Custom vaults
 * ✅ Detailed LP Summary
 * ✅ Impermanent Loss display
@@ -34,15 +34,15 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 
 ### July 2021
 
-* ✅ First cross-chain integration \(Polygon\)
+* ✅ First cross-chain integration (Polygon)
 * ✅ Integrate more protocols
 
 ### August 2021
 
 * ✅ Major UI redesign
-* ✅ Second cross-chain integration \(Ethererum \| ETH\)
-* ✅ Third cross-chain integration \(Fantom Opera \| FTM\)
-* ✅ Launch our first farming pool on Tosdis \(WNOW-BNB\)
+* ✅ Second cross-chain integration (Ethererum | ETH)
+* ✅ Third cross-chain integration (Fantom Opera | FTM)
+* ✅ Launch our first farming pool on Tosdis (WNOW-BNB)
 * ✅ First airdrop promotion in partnership with AerDrop
 * ✅ Launch platform for "free trial" partnerships
 
@@ -51,14 +51,18 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 * ✅ Expand partnerships
 * ✅ Launch our "Diamond Membership" tier
 * ✅ NFTs support, including NFTs viewer
-* ✅ Support for up to 15 wallets per account \(diamond\)
+* ✅ Support for up to 15 wallets per account (diamond)
+
+### October 2021
+
+* ✅ Bridge $WNOW to Fantom Opera
+* Bridge $WNOW to Polygon
+* Support for harvesting pending rewards directly from WalletNow
 
 ### Q4 2021
 
 * List WNOW on CoinMaketCap
 * List WNOW on CoinGecko
-* Integrate more exchanges \(off-chain\)
-* Full cross-chain \(support for all major chains\)
-
-
+* Integrate more exchanges (off-chain)
+* Full cross-chain (support for all major chains)
 
