@@ -9,9 +9,10 @@ description: $WNOW is our utility token
 * **Chain:** BSC (Binance Smart Chain)
 * **Symbol:** WNOW
 * **Name:** WalletNow
-* **Addresses:**
-  * **BSC:**B [0x56aa0237244c67b9a854b4efe8479cca0b105289](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)
-  * **FTM:** [0xa9cad0165c155f3998b0001b3ef30bca0aa6b591](https://ftmscan.com/token/0xa9cad0165c155f3998b0001b3ef30bca0aa6b591)
+* **Address (BSC):** [`0x56aa0237244c67b9a854b4efe8479cca0b105289`](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)``
+* **Bridged addresses (anyswap.net):**
+  * **Fantom (FTM):** [`0xa9cad0165c155f3998b0001b3ef30bca0aa6b591`](https://ftmscan.com/token/0xa9cad0165c155f3998b0001b3ef30bca0aa6b591)``
+  * **Polygon (MATIC):** [`0x5d5530eb3147152fe78d5c4bfeede054c8d1442a`](https://polygonscan.com/token/0x5d5530eb3147152fe78d5c4bfeede054c8d1442a)``
 * **Fixed supply:** 10.000.000 (10 million) **$WNOW**.
   * **Ownership renounced** (no new tokens can ever be created)
 * **Private sale:** 10% (1MM **$WNOW**). Used exclusively for marketing.
