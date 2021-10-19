@@ -25,7 +25,8 @@
 * [Time Machine](features/time-machine.md)
 * [Token ignore list](features/token-ignore-list.md)
 * [View NFTs](features/view-nfts.md)
-* [Export data to CSV \(Excel\)](features/export-data-to-csv-excel.md)
+* [Export data to CSV (Excel)](features/export-data-to-csv-excel.md)
+* [Harvest rewards](features/harvest-rewards.md)
 
 ## Support
 
@@ -33,4 +34,3 @@
 * [Make a request](support/make-a-request.md)
 * [FAQ](support/faq/README.md)
   * [Add to home screen](support/faq/add-to-home-screen.md)
-
