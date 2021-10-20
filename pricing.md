@@ -37,7 +37,7 @@ Our membership plans are:
 * **Silver :** Every $1 worth of **$WNOW** allows monitoring up to $300 of portfolio (0.33% of your total portfolio).
 * **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio (0.5% of your total portfolio).
 * **Diamond: **Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio (1% of your total portfolio), with a minimum  requirement of $100 owned
-* Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes (we recommend BNB-WNOW on PancakeSwap).
+* Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes.
 
 **Example: **If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to activate the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
 
