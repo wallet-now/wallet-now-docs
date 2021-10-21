@@ -16,7 +16,7 @@ See the number of tokens that you need to purchase to active a given tier, and c
 
 Each individual field is explained below:
 
-| Field                       | Description                                                                                                                                                                                                                                                         |
+| **Field**                   | **Description**                                                                                                                                                                                                                                                     |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Total $WNOW tokens          | Total number of $WNOW tokens that you own                                                                                                                                                                                                                           |
 | Liquidity Bonus             | <p>If you have added WNOW liquidity on any of our supported DEXes, you receive a 10% bonus, so you need less tokens for the same portfolio amount.</p><p>Even if you stake those LP Tokens on a farm, they still count with the 10% Bonus.</p>                      |
