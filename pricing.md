@@ -47,23 +47,24 @@ Read more about the exact calculation mechanism [down below](pricing.md#membersh
 
 ### **Features included on each tier**
 
-| Features                                                                                                                                                                               | Free | Silver | Gold | Diamond |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ | ---- | ------- |
-| View all your DeFi investments on BSC, Polygon Ethereum and Fantom Opera. Including **all tokens** and an ever-growing list of farms, pools and vaults!                                | ✅    | ✅      | ✅    | ✅       |
-| View all your NFTs summary across all supported chains                                                                                                                                 | ✅    | ✅      | ✅    | ✅       |
-| [Privacy Lock](features/privacy-lock.md): Make your wallet's data accessible only for you                                                                                              | ✅    | ✅      | ✅    | ✅       |
-| [Detailed views](features/detailed-token-data.md), including per-token details, 46 fiat currency conversions, LP Token breakdown, and [Impermanent Loss](features/impermanent-loss.md) |      | ✅      | ✅    | ✅       |
-| [Telegram bot](features/telegram-bot.md): Check your portfolio status anywhere, any time                                                                                               |      | ✅      | ✅    | ✅       |
-| Add up to [five wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals                                             |      |        | ✅    | ✅       |
-| [Active monitoring](features/active-monitoring.md) with alarms on your Telegram. Get notified if your investments suffers abnormal volatility.                                         |      |        | ✅    | ✅       |
-| [Link with your Binance Exchange](features/binance-exchange-integration.md) account to see off-chain crypto investments combined, all in one place.                                    |      |        | ✅    | ✅       |
-| Register customized crypto [investments](features/custom-investments.md) and [vaults](features/custom-vaults.md) from unsupported locations. All your portfolio in one place!          |      |        | ✅    | ✅       |
-| [Time Machine](features/time-machine.md): See how your investments were in the past. Complete including historical conversion rates.                                                   |      |        | ✅    | ✅       |
-| [View all your NFTs](features/view-nfts.md) (non-fungible tokens), including their media (image/video)                                                                                 |      |        |      | ✅       |
-| Add up to [15 wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals                                               |      |        |      | ✅       |
-| Receive [important notifications](features/active-monitoring.md#notifications-about-your-investments) about your investments                                                           |      |        |      | ✅       |
-| [Export data](features/export-data-to-csv-excel.md) to CSV (Excel)                                                                                                                     |      |        |      | ✅       |
-| [Harvest pending rewards](features/harvest-rewards.md) easily                                                                                                                          |      |        |      | ✅       |
+| **Features**                                                                                                                                                                  | **Minimum tier** |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+| View all your DeFi investments on BSC, Polygon Ethereum and Fantom Opera. Including **all tokens** and an ever-growing list of farms, pools and vaults!                       |     **FREE**     |
+| View all your NFTs summary across all supported chains                                                                                                                        |     **FREE**     |
+| [Privacy Lock](features/privacy-lock.md): Make your wallet's data accessible only for you                                                                                     |     **FREE**     |
+| [Detailed views](features/detailed-token-data.md), including per-token details, 46 fiat currency conversions                                                                  |      SILVER      |
+| LP Token breakdown, and [Impermanent Loss](features/impermanent-loss.md) calculation                                                                                          |      SILVER      |
+| [Telegram bot](features/telegram-bot.md): 🤖 Check your portfolio status anywhere, any time                                                                                   |      SILVER      |
+| Add up to [five wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals                                    |      🏅 GOLD     |
+| [Active monitoring](features/active-monitoring.md) with alarms on your Telegram. Get notified if your investments suffers abnormal volatility.                                |      🏅 GOLD     |
+| [Link with your Binance Exchange](features/binance-exchange-integration.md) account to see off-chain crypto investments combined, all in one place.                           |      🏅 GOLD     |
+| Register customized crypto [investments](features/custom-investments.md) and [vaults](features/custom-vaults.md) from unsupported locations. All your portfolio in one place! |      🏅 GOLD     |
+| [Time Machine](features/time-machine.md): See how your investments were in the past. Complete including historical conversion rates.                                          |      🏅 GOLD     |
+| [View all your NFTs](features/view-nfts.md) (non-fungible tokens), including their media (image/video)                                                                        |    💎 DIAMOND    |
+| Add up to [15 wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals                                      |    💎 DIAMOND    |
+| Receive [important notifications](features/active-monitoring.md#notifications-about-your-investments) about your investments                                                  |    💎 DIAMOND    |
+| [Export data](features/export-data-to-csv-excel.md) to CSV (Excel)                                                                                                            |    💎 DIAMOND    |
+| [Harvest pending rewards](features/harvest-rewards.md) easily                                                                                                                 |    💎 DIAMOND    |
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 
