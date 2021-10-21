@@ -63,6 +63,7 @@ Read more about the exact calculation mechanism [down below](pricing.md#membersh
 | Add up to [15 wallets per account](features/multiple-wallets.md). See them all as part of the same account, along with aggregated totals                                               |      |        |      | ✅       |
 | Receive [important notifications](features/active-monitoring.md#notifications-about-your-investments) about your investments                                                           |      |        |      | ✅       |
 | [Export data](features/export-data-to-csv-excel.md) to CSV (Excel)                                                                                                                     |      |        |      | ✅       |
+| [Harvest pending rewards](features/harvest-rewards.md) easily                                                                                                                          |      |        |      | ✅       |
 
 Keep in mind that $WNOW is a **utility token**, with the sole purpose of enabling your WalletNow membership plan. It should not be treated as a security nor an asset. We don’t promise any positive returns on $WNOW token purchases. Cryptocurrencies are highly volatile, so DO YOUR OWN RESEARCH.
 
