@@ -10,23 +10,20 @@ However, to cover for the infrastructure and development costs, we also offer ou
 
 On your account, click on the "medal" 🏅 icon, and a popup similar to this will be displayed:
 
-![](<.gitbook/assets/image (70).png>)
+![](<.gitbook/assets/image (78).png>)
 
-See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396)** **(Available only on Binance Smart Chain at this moment, but the tokens are valid for usage on all chains).
+See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396).
 
 Each individual field is explained below:
 
-| **Field**                   | **Description**                                                                                                                                                                                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Total $WNOW tokens          | Total number of $WNOW tokens that you own                                                                                                                                                                                                                           |
-| Liquidity Bonus             | <p>If you have added WNOW liquidity on any of our supported DEXes, you receive a 10% bonus, so you need less tokens for the same portfolio amount.</p><p>Even if you stake those LP Tokens on a farm, they still count with the 10% Bonus.</p>                      |
-| Your Portfolio              | Your portfolio size (in US Dollars)                                                                                                                                                                                                                                 |
-| Max. Monitorable in Silver  | <p>The maximum portfolio size you can monitor based on the $WNOW you own.<br>If your portfolio drops below this amount, you don't need to buy any extra tokens, and will become a <strong>Silver Tier member</strong>.</p><p></p>                                   |
-| Tokens needed for Silver    | How many $WNOW tokens you need to purchase to activate the Silver Tier.                                                                                                                                                                                             |
-| Max. Monitorable in Gold    | <p>The maximum portfolio size you can monitor based on the $WNOW you own.<br>If your portfolio drops below this amount, you don't need to buy any extra tokens, and will become a <strong>Gold Tier member</strong>.</p>                                            |
-| Tokens needed for Gold      | How many $WNOW tokens you need to purchase to activate the Gold Tier.                                                                                                                                                                                               |
-| Max. Monitorable in Diamond | <p>The maximum portfolio size you can monitor based on the $WNOW you own.<br>If your portfolio drops below this amount, you don't need to buy any extra tokens, and will become a <strong>Diamond Tier member, as long as you hold the minimum of $100</strong></p> |
-| Tokens needed for Diamond   | <p>How many $WNOW tokens you need to purchase to activate the Diamond Tier.</p><p>Remember that the minimum necessary to activate the Diamond tier is $100.</p>                                                                                                     |
+| **Field**                                 | **Description**                                                                                                                                                                                                                                |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Average $WNOW price                       | This is the average price of WNOW across all our supported chains, and is the price used for the membership calculation.                                                                                                                       |
+| Total $WNOW tokens                        | Total number of $WNOW tokens that you own                                                                                                                                                                                                      |
+| Liquidity Bonus                           | <p>If you have added WNOW liquidity on any of our supported DEXes, you receive a 10% bonus, so you need less tokens for the same portfolio amount.</p><p>Even if you stake those LP Tokens on a farm, they still count with the 10% Bonus.</p> |
+| Your Portfolio                            | Your portfolio size (in US Dollars)                                                                                                                                                                                                            |
+| Max. Monitorable in (Silver/Gold/Diamond) | <p>The maximum portfolio size you can monitor based on the $WNOW you own.<br>If your portfolio increases above this amount, you will need to purchase extra $WNOW tokens or your membership tier will be downgraded.</p><p></p>                |
+| Tokens needed for (Silver/Gold/Diamond)   | How many $WNOW tokens you need to purchase to activate the given tier.                                                                                                                                                                         |
 
 ### WalletNow Membership <a href="e44b" id="e44b"></a>
 
@@ -34,9 +31,9 @@ To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-to
 Our membership plans are:
 
 * **Free:** Free forever! Basic functionality available to everyone.
-* **Silver :** Every $1 worth of **$WNOW** allows monitoring up to $300 of portfolio (0.33% of your total portfolio).
-* **Gold:** Every $1 worth of **$WNOW** allows monitoring up to $200 of portfolio (0.5% of your total portfolio).
-* **Diamond: **Every $1 worth of **$WNOW** allows monitoring up to $100 of portfolio (1% of your total portfolio), with a minimum  requirement of $100 owned
+* **Silver :** Every $1 worth of $WNOW allows monitoring up to $300 of portfolio (**0.33%** of your total portfolio).
+* **Gold:** Every $1 worth of $WNOW allows monitoring up to $200 of portfolio (**0.5%** of your total portfolio).
+* **Diamond: **Every $1 worth of $WNOW allows monitoring up to $100 of portfolio (**1%** of your total portfolio), with a **minimum  requirement of $100** owned
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes.
 
 **Example: **If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to activate the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.

@@ -12,4 +12,4 @@ Here you can see all the pending rewards you can harvest from WalletNow. Just co
 
 Alternatively, you can also harvest individual investments from the investment details directly:
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/image (76) (1).png>)
