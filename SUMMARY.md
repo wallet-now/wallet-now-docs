@@ -27,6 +27,7 @@
 * [View NFTs](features/view-nfts.md)
 * [Export data to CSV (Excel)](features/export-data-to-csv-excel.md)
 * [Harvest rewards](features/harvest-rewards.md)
+* [Profit & Loss (P\&L)](features/profit-and-loss-p-and-l.md)
 
 ## Support
 
