@@ -1,6 +1,6 @@
 # Profit & Loss (P\&L)
 
-AutoSIM is able to display your P\&L if you know exactly how much fiat capital you invested so far. There is currently no way to determine the invested capital, so this will only be possible if you keep track of that separately (for example, by keeping a record of all the fiat deposits you did on your centralized exchange).
+WalletNow is able to display your P\&L if you know exactly how much fiat capital you invested so far. There is currently no way to determine the invested capital, so this will only be possible if you keep track of that separately (for example, by keeping a record of all the fiat deposits you did on your centralized exchange).
 
 If you want to use this feature, just configure the total amount invested on your local currency:
 
