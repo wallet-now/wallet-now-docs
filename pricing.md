@@ -10,7 +10,7 @@ However, to cover for the infrastructure and development costs, we also offer ou
 
 On your account, click on the "medal" 🏅 icon, and a popup similar to this will be displayed:
 
-![](<.gitbook/assets/image (78).png>)
+![](<.gitbook/assets/image (78) (1).png>)
 
 See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396).
 

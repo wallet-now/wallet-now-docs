@@ -2,7 +2,7 @@
 
 If you are a Diamond 💎  tier member, you can also harvest all your rewards (pending yields) directly from WalletNow! No need to open dozens of yield farm websites and harvest one by one anymore!
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../.gitbook/assets/image (75) (1).png>)
 
 Clicking on the HARVEST button above will bring the "Harvest rewards" screen:
 
@@ -12,4 +12,4 @@ Here you can see all the pending rewards you can harvest from WalletNow. Just co
 
 Alternatively, you can also harvest individual investments from the investment details directly:
 
-![](<../.gitbook/assets/image (76) (1).png>)
+![](<../.gitbook/assets/image (76) (1) (1).png>)
