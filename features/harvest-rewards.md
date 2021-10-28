@@ -13,3 +13,5 @@ Here you can see all the pending rewards you can harvest from WalletNow. Just co
 Alternatively, you can also harvest individual investments from the investment details directly:
 
 ![](<../.gitbook/assets/image (76) (1) (1).png>)
+
+**DISCLAIMER:** This feature will execute transactions calling the smart contract of the protocols holding your funds. WalletNow is not responsible for any bugs or malicious behavior on those smart contracts, even in the event of lost funds. Harvesting from WalletNow is no different than harvesting from the protocol's website directly.

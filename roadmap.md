@@ -2,7 +2,7 @@
 
 WalletNow is currently under active development, and more features are added every week!
 
-We maintain a [public list of feature requests on GitHub](https://github.com/wallet-now/wallet-now/issues), and we tag those which are planning to implement next, so you always know what to expect next!
+You can vote on your favorite feature requests, or suggest new ideas here: [feedback.walletnow.net](https://feedback.walletnow.net)
 
 ### April 2021
 
@@ -20,7 +20,7 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 * ✅ More wallet apps
 * ✅ Time Machine
 * ✅ $WNOW token launch and private sale
-* ✅ Support for +12 protocols (total of 19)
+* ✅ Support for +12 protocols
 * ✅ Custom vaults
 * ✅ Detailed LP Summary
 * ✅ Impermanent Loss display
@@ -52,12 +52,17 @@ We maintain a [public list of feature requests on GitHub](https://github.com/wal
 * ✅ Launch our "Diamond Membership" tier
 * ✅ NFTs support, including NFTs viewer
 * ✅ Support for up to 15 wallets per account (diamond)
+* ✅ Reach support for 50+ protocols
+* ✅ Open a new WNOW-BNB Farm on AutoShark
 
 ### October 2021
 
 * ✅ Bridge $WNOW to Fantom Opera
-* Bridge $WNOW to Polygon
-* Support for harvesting pending rewards directly from WalletNow
+* ✅ List $WNOW on SpiritSwap
+* ✅ Bridge $WNOW to Polygon
+* ✅ Support for harvesting pending rewards directly from WalletNow
+* ✅ Display Profit & Loss information
+* ✅ Provide another option of PCS LPs farming (Farmageddon)
 
 ### Q4 2021
 
