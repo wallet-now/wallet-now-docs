@@ -6,7 +6,7 @@ description: $WNOW is our utility token
 
 
 
-* **Chain:** BSC (Binance Smart Chain)
+* **Chain:** BSC (Binance Smart Chain) + bridges
 * **Symbol:** WNOW
 * **Name:** WalletNow
 * **Address (BSC):** [`0x56aa0237244c67b9a854b4efe8479cca0b105289`](https://bscscan.com/token/0x56aa0237244c67b9a854b4efe8479cca0b105289)``
@@ -15,6 +15,7 @@ description: $WNOW is our utility token
   * **Polygon (MATIC):** [`0x5d5530eb3147152fe78d5c4bfeede054c8d1442a`](https://polygonscan.com/token/0x5d5530eb3147152fe78d5c4bfeede054c8d1442a)``
 * **Fixed supply:** 10.000.000 (10 million) **$WNOW**.
   * **Ownership renounced** (no new tokens can ever be created)
+  * **Circulating Supply:** [Check it live here](https://api.walletnow.net/WNOW/circulating\_supply)
 * **Private sale:** 10% (1MM **$WNOW**). Used exclusively for marketing.
   * **Round 1:** (Sold out) 500K tokens for our early adopters and supporters, with immediate vesting.
   * **Round 2:** (Planned) 500K tokens reserved for another future round of private sale with long-term vesting.
