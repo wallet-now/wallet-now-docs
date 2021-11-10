@@ -95,6 +95,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | ProtoFi        | [bank.protofi.app](https://bank.protofi.app)                             | Polygon      | No      |
 | BabySwap       | [babyswap.finance](https://home.babyswap.finance)                        | BSC          | No      |
 | JetSwap        | [jetswap.finance](https://jetswap.finance)                               | Polygon      | Yes ✅   |
+| TreeDefi       | [treedefi.com](https://treedefi.com)                                     | BSC          | No      |
 
 ### **Request new integrations:**
 
