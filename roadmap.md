@@ -64,10 +64,14 @@ You can vote on your favorite feature requests, or suggest new ideas here: [feed
 * ✅ Display Profit & Loss information
 * ✅ Provide another option of PCS LPs farming (Farmageddon)
 
+### November 2021
+
+* ✅ List WNOW on CoinMaketCap
+* List WNOW on CoinGecko
+* Launch support for Token Swap from WalletNow
+
 ### Q4 2021
 
-* List WNOW on CoinMaketCap
-* List WNOW on CoinGecko
 * Integrate more exchanges (off-chain)
 * Full cross-chain (support for all major chains)
 
