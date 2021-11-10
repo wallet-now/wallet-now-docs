@@ -60,6 +60,8 @@ description: WalletNow currently supports the following sources of crypto invest
 | RisingSun            | [risingsun.finance](https://risingsun.finance)               | BSC                    |
 | Farmageddon          | [farmageddon.farm](https://farmageddon.farm)                 | BSC                    |
 | SquidStake           | [squidstake.com](https://squidstake.com)                     | BSC                    |
+| Bingus Network       | [bingus.io](https://bingus.io)                               | BSC                    |
+| InfiniteOne          | [infiniteone.io](https://infiniteone.io)                     | BSC                    |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" (Liquidity Provider / Liquidity Pool Token), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes (Distributed Exchanges) supported at this moment.
 
