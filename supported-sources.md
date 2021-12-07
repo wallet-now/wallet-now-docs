@@ -15,58 +15,59 @@ description: WalletNow currently supports the following sources of crypto invest
 
 **Supported chains:** Binance Smart Chain (BSC), Polygon, Ethereum (ETH) and Fantom Opera (FTM)
 
-| Protocol             | Website                                                      | Chains                 |
-| -------------------- | ------------------------------------------------------------ | ---------------------- |
-| Wallet holdings      | N/A (any BEP20 or ERC token)                                 | BSC, Polygon, ETH, FTM |
-| Custom Vaults        | [Read the docs here](features/custom-vaults.md)              | BSC, Polygon, ETH, FTM |
-| AutoFarm             | [autofarm.network](https://autofarm.network)                 | BSC, Polygon           |
-| Beefy                | [app.beefy.finance](https://app.beefy.finance)               | BSC, Polygon           |
-| Blizzard             | [www.blizzard.money](https://www.blizzard.money)             | BSC                    |
-| Pancake Bunny        | [pancakebunny.finance](https://pancakebunny.finance)         | BSC, Polygon           |
-| PancakeSwap (PCS V2) | [pancakeswap.finance](https://pancakeswap.finance)           | BSC                    |
-| Venus                | [app.venus.io](https://app.venus.io)                         | BSC                    |
-| HyperJump            | [hyperjump.fi](https://hyperjump.fi)                         | BSC                    |
-| Cream                | [app.cream.finance](https://app.cream.finance)               | BSC                    |
-| JetFuel              | [jetfuel.finance](https://jetfuel.finance)                   | BSC                    |
-| MDex                 | [mdex.com](https://mdex.com)                                 | BSC                    |
-| ACryptos             | [app.acryptos.com](https://app.acryptos.com)                 | BSC                    |
-| bDollar              | [bdollar.fi](https://bdollar.fi)                             | BSC                    |
-| ApeSwap              | [apeswap.finance](https://apeswap.finance)                   | BSC                    |
-| PantherSwap          | [pantherswap.com](https://pantherswap.com)                   | BSC                    |
-| JaguarSwap           | [jaguarswap.com](https://jaguarswap.com/staking)             | BSC                    |
-| Wault Finance        | [wault.finance](https://wault.finance)                       | BSC, Polygon           |
-| GarudaSwap           | [garudaswap.finance](https://garudaswap.finance)             | BSC                    |
-| Belt Finance         | [belt.fi](https://belt.fi)                                   | BSC                    |
-| Aave                 | [aave.com](https://aave.com)                                 | Polygon                |
-| Swamp                | [swamp.finance](https://swamp.finance)                       | BSC, Polygon           |
-| TreeDefi             | [treedefi.com](http://treedefi.com)                          | BSC                    |
-| Tosdis               | [app.tosdis.finance](https://app.tosdis.finance)             | BSC, ETH, FTM          |
-| 1inch                | [app.1inch.io](https://app.1inch.io)                         | ETH                    |
-| SpookySwap           | [spookyswap.finance](https://spookyswap.finance)             | FTM                    |
-| AerDrop              | [app.aerdrop.finance](https://app.aerdrop.finance/farms)     | BSC                    |
-| AutoShark            | [autoshark.finance](https://autoshark.finance)               | BSC                    |
-| SpiritSwap           | [www.spiritswap.finance](https://www.spiritswap.finance)     | FTM                    |
-| RugZombie            | [www.rugzombie.io/home](https://www.rugzombie.io/home/)      | BSC                    |
-| Octaplex             | [octaplex.io](https://octaplex.io)                           | BSC                    |
-| French Connection    | [frenchconnection.finance](https://frenchconnection.finance) | BSC                    |
-| PancakeHunny         | [pancakehunny.finance](https://pancakehunny.finance)         | BSC                    |
-| SupraLuna            | [www.supraluna.com](https://www.supraluna.com)               | BSC                    |
-| RoboVault            | [robo-vault.com](https://robo-vault.com)                     | FTM                    |
-| Chupacabra           | [chupacabra.finance](https://chupacabra.finance)             | BSC                    |
-| ProtoFi              | [protofi.app](https://protofi.app)                           | Polygon                |
-| ShibaNova            | [shibanova.io](https://shibanova.io)                         | BSC                    |
-| SuperLauncher        | [superlauncher.io](https://superlauncher.io)                 | BSC                    |
-| Olympus              | [olympustoken.io](https://olympustoken.io)                   | BSC                    |
-| RisingSun            | [risingsun.finance](https://risingsun.finance)               | BSC                    |
-| Farmageddon          | [farmageddon.farm](https://farmageddon.farm)                 | BSC                    |
-| SquidStake           | [squidstake.com](https://squidstake.com)                     | BSC                    |
-| Bingus Network       | [bingus.io](https://bingus.io)                               | BSC                    |
-| InfiniteOne          | [infiniteone.io](https://infiniteone.io)                     | BSC                    |
-| Land Share           | [app.landshare.io](https://app.landshare.io)                 | BSC                    |
-| Hibiki               | [hibiki.finance](https://hibiki.finance)                     | BSC                    |
-| OliveSwap            | [olive.cash](https://olive.cash)                             | BSC, FTM, Polygon      |
-| HodlerHeroes         | [hodlerheroes.org](https://hodlerheroes.org)                 | BSC                    |
-| BUSDX                | [busdx.com](https://www.busdx.com)                           | BSC                    |
+| Protocol          | Website                                                      | Chains                 |
+| ----------------- | ------------------------------------------------------------ | ---------------------- |
+| Wallet holdings   | N/A (any BEP20 or ERC token)                                 | BSC, Polygon, ETH, FTM |
+| Custom Vaults     | [Read the docs here](features/custom-vaults.md)              | BSC, Polygon, ETH, FTM |
+| AutoFarm          | [autofarm.network](https://autofarm.network)                 | BSC, Polygon           |
+| Beefy             | [app.beefy.finance](https://app.beefy.finance)               | BSC, Polygon           |
+| Blizzard          | [www.blizzard.money](https://www.blizzard.money)             | BSC                    |
+| Pancake Bunny     | [pancakebunny.finance](https://pancakebunny.finance)         | BSC, Polygon           |
+| PancakeSwap       | [pancakeswap.finance](https://pancakeswap.finance)           | BSC                    |
+| Venus             | [app.venus.io](https://app.venus.io)                         | BSC                    |
+| HyperJump         | [hyperjump.fi](https://hyperjump.fi)                         | BSC                    |
+| Cream             | [app.cream.finance](https://app.cream.finance)               | BSC                    |
+| JetFuel           | [jetfuel.finance](https://jetfuel.finance)                   | BSC                    |
+| MDex              | [mdex.com](https://mdex.com)                                 | BSC                    |
+| ACryptos          | [app.acryptos.com](https://app.acryptos.com)                 | BSC                    |
+| bDollar           | [bdollar.fi](https://bdollar.fi)                             | BSC                    |
+| ApeSwap           | [apeswap.finance](https://apeswap.finance)                   | BSC                    |
+| PantherSwap       | [pantherswap.com](https://pantherswap.com)                   | BSC                    |
+| JaguarSwap        | [jaguarswap.com](https://jaguarswap.com/staking)             | BSC                    |
+| Wault Finance     | [wault.finance](https://wault.finance)                       | BSC, Polygon           |
+| GarudaSwap        | [garudaswap.finance](https://garudaswap.finance)             | BSC                    |
+| Belt Finance      | [belt.fi](https://belt.fi)                                   | BSC                    |
+| Aave              | [aave.com](https://aave.com)                                 | Polygon                |
+| Swamp             | [swamp.finance](https://swamp.finance)                       | BSC, Polygon           |
+| TreeDefi          | [treedefi.com](http://treedefi.com)                          | BSC                    |
+| Tosdis            | [app.tosdis.finance](https://app.tosdis.finance)             | BSC, ETH, FTM          |
+| 1inch             | [app.1inch.io](https://app.1inch.io)                         | ETH                    |
+| SpookySwap        | [spookyswap.finance](https://spookyswap.finance)             | FTM                    |
+| AerDrop           | [app.aerdrop.finance](https://app.aerdrop.finance/farms)     | BSC                    |
+| AutoShark         | [autoshark.finance](https://autoshark.finance)               | BSC                    |
+| SpiritSwap        | [www.spiritswap.finance](https://www.spiritswap.finance)     | FTM                    |
+| RugZombie         | [www.rugzombie.io/home](https://www.rugzombie.io/home/)      | BSC                    |
+| Octaplex          | [octaplex.io](https://octaplex.io)                           | BSC                    |
+| French Connection | [frenchconnection.finance](https://frenchconnection.finance) | BSC                    |
+| PancakeHunny      | [pancakehunny.finance](https://pancakehunny.finance)         | BSC                    |
+| SupraLuna         | [www.supraluna.com](https://www.supraluna.com)               | BSC                    |
+| RoboVault         | [robo-vault.com](https://robo-vault.com)                     | FTM                    |
+| Chupacabra        | [chupacabra.finance](https://chupacabra.finance)             | BSC                    |
+| ProtoFi           | [protofi.app](https://protofi.app)                           | Polygon                |
+| ShibaNova         | [shibanova.io](https://shibanova.io)                         | BSC                    |
+| SuperLauncher     | [superlauncher.io](https://superlauncher.io)                 | BSC                    |
+| Olympus           | [olympustoken.io](https://olympustoken.io)                   | BSC                    |
+| RisingSun         | [risingsun.finance](https://risingsun.finance)               | BSC                    |
+| Farmageddon       | [farmageddon.farm](https://farmageddon.farm)                 | BSC                    |
+| SquidStake        | [squidstake.com](https://squidstake.com)                     | BSC                    |
+| Bingus Network    | [bingus.io](https://bingus.io)                               | BSC                    |
+| InfiniteOne       | [infiniteone.io](https://infiniteone.io)                     | BSC                    |
+| Land Share        | [app.landshare.io](https://app.landshare.io)                 | BSC                    |
+| Hibiki            | [hibiki.finance](https://hibiki.finance)                     | BSC                    |
+| OliveSwap         | [olive.cash](https://olive.cash)                             | BSC, FTM, Polygon      |
+| HodlerHeroes      | [hodlerheroes.org](https://hodlerheroes.org)                 | BSC                    |
+| BUSDX             | [busdx.com](https://www.busdx.com)                           | BSC                    |
+| CroxSwap          | [croxswap.com](https://croxswap.com)                         | BSC                    |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" (Liquidity Provider / Liquidity Pool Token), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes (Distributed Exchanges) supported at this moment.
 
