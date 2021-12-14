@@ -68,6 +68,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | HodlerHeroes      | [hodlerheroes.org](https://hodlerheroes.org)                 | BSC                    |
 | BUSDX             | [busdx.com](https://www.busdx.com)                           | BSC                    |
 | CroxSwap          | [croxswap.com](https://croxswap.com)                         | BSC                    |
+| BeGlobal          | [dapp.beglobal.finance](https://dapp.beglobal.finance)       | BSC                    |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" (Liquidity Provider / Liquidity Pool Token), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes (Distributed Exchanges) supported at this moment.
 
