@@ -10,7 +10,7 @@ However, to cover for the infrastructure and development costs, we also offer ou
 
 On your account, click on the "medal" 🏅 icon, and a popup similar to this will be displayed:
 
-![](<.gitbook/assets/image (78) (1).png>)
+![](<.gitbook/assets/image (78) (1) (1).png>)
 
 See the number of tokens that you need to purchase to active a given tier, and check [**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396).
 
@@ -25,7 +25,7 @@ Each individual field is explained below:
 | Max. Monitorable in (Silver/Gold/Diamond) | <p>The maximum portfolio size you can have in your current plan, based on the $WNOW you own.<br>If your portfolio increases above this amount, you will need to purchase extra $WNOW tokens or your membership tier will be downgraded.</p>    |
 | Tokens needed for (Silver/Gold/Diamond)   | How many $WNOW tokens you need to purchase to activate the given tier.                                                                                                                                                                         |
 
-### WalletNow Membership <a href="e44b" id="e44b"></a>
+### WalletNow Membership <a href="#e44b" id="e44b"></a>
 
 To leverage all WalletNow features, you need to buy and hold [**$WNOW**](wnow-tokenomics.md) tokens on BSC.\
 Our membership plans are:
@@ -33,14 +33,14 @@ Our membership plans are:
 * **Free:** Free forever! Basic functionality available to everyone.
 * **Silver :** Every $1 worth of $WNOW allows monitoring up to $300 of portfolio (**0.33%** of your total portfolio).
 * **Gold:** Every $1 worth of $WNOW allows monitoring up to $200 of portfolio (**0.5%** of your total portfolio).
-* **Diamond: **Every $1 worth of $WNOW allows monitoring up to $100 of portfolio (**1%** of your total portfolio), with a **minimum  requirement of $100** owned
+* **Diamond:** Every $1 worth of $WNOW allows monitoring up to $100 of portfolio (**1%** of your total portfolio), with a **minimum  requirement of $100** owned
 * Users receive a bonus of 10% on their monitored amount by holding WNOW LP tokens from any of our supported DEXes.
 
-**Example: **If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to activate the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
+**Example:** If you have a portfolio of $10K USD, then you need to buy $100 worth of $WNOW to activate the Diamond tier, or R$50 worth of WNOW to activate the Gold tier, or $33.33 worth of WNOW to activate the Silver tier.
 
 Read more about the exact calculation mechanism [down below](pricing.md#membership-calculation-mechanism).
 
-****[**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396)** **(BSC-only at this moment, but it is valid for all supported chains)
+****[**How to buy $WNOW**](https://walletnow.medium.com/how-to-buy-wnow-cb562f30a396) **** (BSC-only at this moment, but it is valid for all supported chains)
 
 ### **Features included on each tier**
 
