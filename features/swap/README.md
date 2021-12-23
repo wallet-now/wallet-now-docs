@@ -25,3 +25,15 @@ Once you submit the swap transaction, you can choose to wait for the confirmatio
 ![](<../../.gitbook/assets/image (82).png>)
 
 Once the transaction is confirmed, you have successfully swapped your tokens!
+
+### Feature availability
+
+WalletNow Swap is available on the following chains / networks:
+
+| Chain               | Supported?  |
+| ------------------- | ----------- |
+| Binance Smart Chain | ✅ Yes       |
+| Polygon             | ✅ Yes       |
+| Fantom Opera        | ✅ Yes       |
+| Ethereum            | Coming soon |
+| Heco                | Coming soon |
