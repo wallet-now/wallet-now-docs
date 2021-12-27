@@ -4,7 +4,7 @@ WalletNow is able to display your P\&L if you know exactly how much fiat capital
 
 If you want to use this feature, just configure the total amount invested on your local currency:
 
-![](<../.gitbook/assets/image (77).png>)
+![](<../.gitbook/assets/image (77) (1).png>)
 
 All currency codes are supported for the P\&L calculation:
 
