@@ -76,8 +76,8 @@ All investments supported by WalletNow count towards your "portfolio amount". In
 
 The following exceptions are applied to the portfolio amount:
 
-* For token holdings on your wallet, each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100
-* Holding $WNOW does not count towards your portfolio
+* For token holdings on your wallet (not staked anywhere), each individual token is limited to a maximum of $100 USD. So even if you have 1 million dollars worth of Bitcoin sitting on your wallet, it still counts as only $100 (but, if you stake those bitcoins, then they will count in full)
+* Holding $WNOW does not count towards your portfolio amount
 
 Once your portfolio amount is determined, we check how much $WNOW you own:
 
@@ -85,6 +85,6 @@ Once your portfolio amount is determined, we check how much $WNOW you own:
 * $WNOW LP tokens from any supported DEX
 * $WNOW or LP invested on any protocol
 
-**However, it is important to highlight that only the $WNOW owned by your primary wallet counts towards the membership. Secondary wallets count towards your portfolio amount but do not count for the WNOW membership.**
+**However, it is important to highlight that only the $WNOW owned by your primary wallet counts towards the membership. Secondary wallets count towards your portfolio amount but the WNOW on those wallets (if any) do not count for your WNOW membership.**
 
 Then, it is only a matter of comparing the amount of WNOW owned vs your portfolio size to determine the active membership tier.
