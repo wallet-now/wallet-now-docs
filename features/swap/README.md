@@ -1,10 +1,8 @@
 # Swap
 
-WalletNow has a builtin multi-chain liquidity aggregator to find the best deal to swap your tokens!
+WalletNow has a builtin multi-chain liquidity aggregator to find the **best deal to swap your tokens**!
 
-**This feature is currently in BETA**. Please report on our Telegram ([@WalletNow](https://t.me/WalletNow)) if you find any issues.
-
-Before you start, make sure you have opened your wallet on WalletNow by entering its address on the landing page:
+Before you start, make sure you have opened your wallet on WalletNow by entering its address on the landing page: [https://walletnow.net](https://walletnow.net)
 
 ![Opening your wallet on WalletNow](<../../.gitbook/assets/image (78).png>)
 
@@ -31,6 +29,10 @@ Once you submit the swap transaction, you can choose to wait for the confirmatio
 ![](<../../.gitbook/assets/image (82).png>)
 
 Once the transaction is confirmed, you have successfully swapped your tokens!
+
+This feature is currently in BETA. Please report on our Telegram ([@WalletNow](https://t.me/WalletNow)) if you find any issues.
+
+
 
 ### Feature availability
 
