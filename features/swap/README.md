@@ -1,6 +1,10 @@
-# Swap
+# WalletNow Swap
 
 WalletNow has a builtin multi-chain liquidity aggregator to find the **best deal to swap your tokens**!
+
+_**Safety is our top priority!** Our swap contracts perform several security checks to ensure that you will never receive less tokens than expected. This means you can safely swap using "untrusted" DEX routers to get you the best available deal._
+
+When you use WalletNow Swap, you will interact exclusively with our custom-built liquidity aggregation router, which was designed with security as the top priority. You don't need to trust the underlying liquidity source because, even if it has any malicious code, WalletNow Swap will detect the diverging amounts and revert the transaction. This also increases the convenience since you only need to authorize WalletNow Swap for swapping your tokens instead of having to autorize individual distributed exchanges.
 
 Before you start, make sure you have opened your wallet on WalletNow by entering its address on the landing page: [https://walletnow.net](https://walletnow.net)
 
