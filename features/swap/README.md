@@ -14,7 +14,7 @@ Head over to [https://walletnow.net/swap](https://walletnow.net/swap)
 
 Then select the tokens you want to swap, or paste a contract address to import:
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../.gitbook/assets/image (81) (1).png>)
 
 Once you click on "Review Swap", WalletNow will search several liquidity sources to find the best deal for your swap:
 
@@ -38,7 +38,7 @@ If you are using WalletNow and would like to swap tokens directly from the main 
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-![Swap button on token dialog](<../../.gitbook/assets/image (81) (1).png>)
+![Swap button on token dialog](<../../.gitbook/assets/image (81) (1) (1).png>)
 
 This will open the token Swap dialog, where you can select the output token. It is that simple!
 

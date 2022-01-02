@@ -30,6 +30,7 @@
 * [Profit & Loss (P\&L)](features/profit-and-loss-p-and-l.md)
 * [WalletNow Swap](features/swap/README.md)
   * [Terms of service](features/swap/terms-of-service.md)
+  * [Direct links](features/swap/direct-links.md)
 
 ## Support
 
