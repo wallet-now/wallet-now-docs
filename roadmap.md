@@ -67,11 +67,20 @@ You can vote on your favorite feature requests, or suggest new ideas here: [feed
 ### November 2021
 
 * ✅ List WNOW on CoinMaketCap
-* List WNOW on CoinGecko
-* Launch support for Token Swap from WalletNow
+* ✅ List WNOW on CoinGecko
 
-### Q4 2021
+### December 2021
 
+* ✅ Launch our builtin multi-chain token swapper and liquidity aggregator
+
+### January 2022
+
+* Launch support for our fifth chain: HECO Chain
+* Launch our builtin multi-chain DEX price charting
+
+### Q1 2022
+
+* Track purchase points and average price
 * Integrate more exchanges (off-chain)
 * Full cross-chain (support for all major chains)
 
