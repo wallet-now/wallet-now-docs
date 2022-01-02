@@ -32,6 +32,6 @@ The following parameters are accepted:
 
 ### Benefits for token owners
 
-1. 100% permission-less - You don't need to be whitelisted in order to use this feature
-2. Token logos listing are free - We detect automatically all logos listed on TrustWallet, but you can submit your token logo for free by opening a Pull-request here, in the same format expected by  Trust Wallet: [https://github.com/wallet-now/assets](https://github.com/wallet-now/assets)
-3. Automatically find the best deal to buy your token - Our liquidity aggregator will find the best deal for you with zero effort.
+1. **100% permission-less** - You don't need to be whitelisted in order to use this feature
+2. **Token logo listings are free** - We detect automatically all logos listed on TrustWallet, but you can submit your token logo for free by opening a Pull-request here, in the same format expected by  Trust Wallet: [https://github.com/wallet-now/assets](https://github.com/wallet-now/assets)
+3. **Automatically find the best deal to buy your token** - Our liquidity aggregator will find the best deal for your buyers, with zero effort.
