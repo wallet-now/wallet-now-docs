@@ -51,5 +51,5 @@ WalletNow Swap is available on the following chains / networks:
 | Binance Smart Chain | ✅ Yes       |
 | Polygon             | ✅ Yes       |
 | Fantom Opera        | ✅ Yes       |
+| HECO                | ✅ Yes       |
 | Ethereum            | Coming soon |
-| Heco                | Coming soon |
