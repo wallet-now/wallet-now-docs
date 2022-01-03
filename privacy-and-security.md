@@ -4,11 +4,13 @@ At WalletNow we take great care of our data. Our team has more than 10 years of 
 
 This page details the most important aspects of our data handling policies.
 
+Also check our [audit reports](audits.md) for the smart contracts.
+
 ### Data security
 
 All data is encrypted both in-transit and at-rest using **256-bit Advanced Encryption Standard (AES-256)**, which helps secure your data from unauthorized access to the underlying storage.
 
-Access to the data is restricted using state-of-the art technology managed by the world's lead cloud provider, and all our security credentials follow the [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), along with Preventative Security Best Practices and Detective Security Best Practices.
+Access to the data is restricted using state-of-the art technology managed by the world's lead cloud provider, and all our security credentials follow the [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle\_of\_least\_privilege), along with Preventative Security Best Practices and Detective Security Best Practices.
 
 ### What data is stored?
 
