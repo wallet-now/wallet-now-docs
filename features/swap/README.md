@@ -18,7 +18,7 @@ Then select the tokens you want to swap, or paste a contract address to import:
 
 Once you click on "Review Swap", WalletNow will search several liquidity sources to find the best deal for your swap:
 
-![](<../../.gitbook/assets/image (76).png>)![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (76).png>)![](<../../.gitbook/assets/image (80) (1).png>)
 
 The first time you swap a token, you may need to enable the token for swapping on WalletNow:
 

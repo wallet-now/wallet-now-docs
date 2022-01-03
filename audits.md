@@ -8,6 +8,6 @@ We have also received a perfect 10/10 score on their token analysis. You can che
 
 ![Watchtower score](<.gitbook/assets/image (67).png>)
 
-We also received a 98/100 security score from [MarketMove](https://app.marketmove.ai/contract-audit/0x56aa0237244c67b9a854b4efe8479cca0b105289):
+We also received a 100/100 security score from [MarketMove](https://app.marketmove.ai/contract-audit/0x56aa0237244c67b9a854b4efe8479cca0b105289):
 
-![MarketMove score](<.gitbook/assets/image (74) (1).png>)
+![MarketMove Score](<.gitbook/assets/image (80).png>)
