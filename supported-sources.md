@@ -33,7 +33,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | HyperJump         | [hyperjump.fi](https://hyperjump.fi)                         | BSC                          |
 | Cream             | [app.cream.finance](https://app.cream.finance)               | BSC                          |
 | JetFuel           | [jetfuel.finance](https://jetfuel.finance)                   | BSC                          |
-| MDex              | [mdex.com](https://mdex.com)                                 | BSC                          |
+| MDex              | [mdex.com](https://mdex.com)                                 | BSC, HECO                    |
 | ACryptos          | [app.acryptos.com](https://app.acryptos.com)                 | BSC                          |
 | bDollar           | [bdollar.fi](https://bdollar.fi)                             | BSC                          |
 | ApeSwap           | [apeswap.finance](https://apeswap.finance)                   | BSC                          |
@@ -76,6 +76,7 @@ description: WalletNow currently supports the following sources of crypto invest
 | BeGlobal          | [dapp.beglobal.finance](https://dapp.beglobal.finance)       | BSC                          |
 | AirDropper        | [airdropper.xyz](https://airdropper.xyz)                     | BSC                          |
 | BrewLabs          | [brewlabs.info](https://brewlabs.info)                       | BSC                          |
+| Channels          | [channels.finance](https://channels.finance)                 | BSC, HECO                    |
 
 In addition to the protocols listed above, we will also automatically detect **any BEP20/ERC20 token** on your wallet and display their information along with your investments. If the token is an "LP Token" (Liquidity Provider / Liquidity Pool Token), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes (Distributed Exchanges) supported at this moment.
 
