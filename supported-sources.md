@@ -15,10 +15,11 @@ description: WalletNow currently supports the following sources of crypto invest
 
 **Supported chains:**
 
-* Binance Smart Chain (BSC)
-* Polygon, Ethereum (ETH)
+* Binance Smart Chain (BSC / BNB)
+* Polygon (MATIC)
+* Ethereum (ETH)
 * Fantom Opera (FTM)
-* Huobi Eco (HECO)
+* Huobi Eco (HECO / HT)
 
 | Protocol          | Website                                                      | Chains                       |
 | ----------------- | ------------------------------------------------------------ | ---------------------------- |
