@@ -4,7 +4,7 @@ description: Easy Crypto & DeFi Monitoring
 
 # WalletNow
 
-**WalletNow** is an advanced crypto portfolio monitoring solution. It aggregates all your DeFi & CeFi investments in a searchable table and actively monitors it with an integrated Telegram Bot. With detailed LP information, impermanent loss and yields calculation, you are always in control of your wallet.
+**WalletNow** is an advanced multi-chain crypto portfolio monitoring solution. It aggregates all your DeFi & CeFi investments in a searchable table and actively monitors it with an integrated Telegram Bot. With detailed LP information, impermanent loss and yields calculation, you are always in control of your wallet.
 
 Check it out now for free on [walletnow.net](https://walletnow.net)
 
