@@ -30,7 +30,12 @@
 * [Profit & Loss (P\&L)](features/profit-and-loss-p-and-l.md)
 * [WalletNow Swap](features/swap/README.md)
   * [Terms of service](features/swap/terms-of-service.md)
-  * [Direct links](features/swap/direct-links.md)
+
+## B2B (For business) <a href="#b2b" id="b2b"></a>
+
+* [Advertise on WalletNow](b2b/advertise-on-walletnow.md)
+* [Swap as a service](b2b/swap-as-a-service.md)
+* [One-click buy links](b2b/one-click-buy-links.md)
 
 ## Support
 
