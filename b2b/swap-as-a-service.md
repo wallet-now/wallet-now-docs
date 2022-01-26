@@ -1,21 +1,15 @@
 # Swap as a service
 
-Would you like to offer a built-in swap service which leverages our advanced multi-chain liquidity aggregator, and receive a commission of 0.3% from all swaps at the same time?
+Would you like to offer a built-in swap service which leverages our advanced multi-chain liquidity aggregator, and receive a commission from all swaps at the same time?
 
 With WalletNow you can do that with just a couple lines of code on your website, or even with zero changes at all (with a custom referral link).
 
 ## Benefits for project owners
 
-1. Receive fees in real time for any swap performed via your website or referral link
+1. Receive fees in real time for any swap performed via your website or referral link. [Contact us](mailto:contact@walletnow.net) to learn more abou the fees distribution
 2. Offer a multi-chain liquidity aggregator to your users with minimal effort! Your users will swap tokens using the best available deal across 40+ liquidity sources (and more being added every week)!
 3. Fully customizable! You choose which chains to display, the default slippage, and tokens to pre-select.
 4. Zero maintenance. Once you integrate, we take care of maintaining and improving it constantly for you!
-
-## Fees distribution
-
-Fees are taken on every swap transaction following our regular [WalletNow Swap Terms Of Service](../features/swap/terms-of-service.md). **You receive 0.3% from all swaps (40% of the total fee taken).**
-
-As mentioned in the terms of service above, WalletNow reserves the right to adjust the fees according to the market conditions, given the proper communication and advance notice.
 
 ## Integration via JS Library
 
