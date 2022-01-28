@@ -127,6 +127,7 @@ In addition to the protocols listed above, we will also automatically detect **a
 | HurricaneSwap  | [hurricaneswap.com](https://hurricaneswap.com)                           | AVAX                     | Yes ✅   |
 | Thorus         | [thorus.fi](https://thorus.fi)                                           | AVAX                     | Yes ✅   |
 | TraderJoe      | [traderjoexyz.com](https://traderjoexyz.com)                             | AVAX                     | Yes ✅   |
+| YuklaSwap      | [yuklaswap.com](https://yuklaswap.com)                                   | BSC                      | No      |
 
 ### **Request new integrations:**
 
