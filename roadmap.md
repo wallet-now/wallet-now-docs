@@ -8,14 +8,16 @@ You can vote on your favorite feature requests, or suggest new ideas here: [feed
 
 ### Q1 2022
 
+* Launch our builtin multi-chain DEX price charting
 * Track purchase points and average price
 * Integrate more exchanges (off-chain)
 * Full cross-chain (support for all major chains)
 
 ### January 2022
 
-* Launch support for our fifth chain: HECO Chain
-* Launch our builtin multi-chain DEX price charting
+* ✅ Launch support for our fifth chain: HECO Chain
+* ✅ Launch support for our sixth chain: Avalanche (AVAX)
+* ✅ Increase the number of liquidity sources on our multi-chain liquidity aggregator to 40
 
 ## 2021
 
