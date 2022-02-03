@@ -33,6 +33,7 @@
 
 ## B2B (For business) <a href="#b2b" id="b2b"></a>
 
+* [B2B Summary](b2b/b2b-summary.md)
 * [Advertise on WalletNow](b2b/advertise-on-walletnow.md)
 * [Swap as a service](b2b/swap-as-a-service.md)
 * [One-click buy links](b2b/one-click-buy-links.md)
