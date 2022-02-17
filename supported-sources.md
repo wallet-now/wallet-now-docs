@@ -4,7 +4,7 @@ description: WalletNow currently supports the following sources of crypto invest
 
 # Supported sources
 
-## VOff-chain
+## Off-chain
 
 | Name               | Description                                                                                                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
