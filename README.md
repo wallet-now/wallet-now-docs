@@ -4,15 +4,13 @@ description: Easy Crypto & DeFi Monitoring
 
 # WalletNow
 
-**WalletNow** is an advanced multi-chain crypto portfolio monitoring solution. It aggregates all your DeFi & CeFi investments in a searchable table and actively monitors it with an integrated Telegram Bot. With detailed LP information, impermanent loss and yields calculation, you are always in control of your wallet.
+**WalletNow** is an advanced crypto portfolio monitoring solution for all types of investors. To get started, just paste a wallet address on [walletnow.net](https://walletnow.net) to see aggregated information about your wallet holdings, DeFi investments and NFTs from multiple chains.
 
-Check it out now for free on [walletnow.net](https://walletnow.net)
+You will get access to detailed information from liquidity pools (such as Impermanent Loss), farms, stakes, lending markets, dividends, reflections, and much more! You can also easily manage your portfolio with the integrated swap and quick harvest for extra convenience.
 
-We would love to hear your feedback! Please join our [Telegram Groups](stay-tuned.md) and share your experience.
+{% embed url="https://www.youtube.com/watch?v=UUi9lNeIVUs" %}
 
-![](.gitbook/assets/walletnow-thumbnail-1.jpg)
-
-### Our cool features
+### Some of our cool features
 
 * [Telegram bot](features/telegram-bot.md): Check your portfolio status anywhere, any time
 * [Active monitoring](features/active-monitoring.md) with alarms on your Telegram. Get notified if your investments suffers abnormal volatility. Configure your alarms thresholds
