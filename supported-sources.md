@@ -82,14 +82,15 @@ description: WalletNow currently supports the following sources of crypto invest
 | YuklaSwap         | [yuklaswap.com](https://yuklaswap.com)                       | BSC                                |
 | ValentineFloki    | [valentinefloki.com](https://valentinefloki.com)             | BSC                                |
 | Rasta             | [rasta.finance](https://app.rasta.finance)                   | BSC                                |
-| Alpaca            | [app.alpacafinance.org](https://app.alpacafinance.org/)      | BSC                                |
-| Binance           | [binance.com](https://www.binance.com/)                      | BSC                                |
-| Coinflect         | [coinflect.com](https://coinflect.com/)                      | BSC                                |
-| CZodiac           | [czodiac.com](https://czodiac.com/)                          | BSC                                |
-| JadeProtocol      | [jadeprotocol.io](https://jadeprotocol.io/)                  | BSC                                |
-| PieShare          | [pieshare.io](https://pieshare.io/)                          | BSC                                |
-| PolyCat           | [polycat.finance](https://polycat.finance/)                  | Polygon                            |
-| Weave             | [weave.financial](https://weave.financial/)                  | BSC                                |
+| Alpaca            | [app.alpacafinance.org](https://app.alpacafinance.org)       | BSC                                |
+| Binance           | [binance.com](https://www.binance.com)                       | BSC                                |
+| Coinflect         | [coinflect.com](https://coinflect.com)                       | BSC                                |
+| Hibiki            | [hibiki.finance](https://hibiki.finance)                     | BSC                                |
+| CZodiac           | [czodiac.com](https://czodiac.com)                           | BSC                                |
+| JadeProtocol      | [jadeprotocol.io](https://jadeprotocol.io)                   | BSC                                |
+| PieShare          | [pieshare.io](https://pieshare.io)                           | BSC                                |
+| PolyCat           | [polycat.finance](https://polycat.finance)                   | Polygon                            |
+| Weave             | [weave.financial](https://weave.financial)                   | BSC                                |
 
 In addition to the protocols listed above, we will also automatically detect **any token** on your wallet and display their information along with your investments. If the token is an "LP Token" (Liquidity Provider / Liquidity Pool Token), WalletNow will display detailed information about the underlying tokens as well. Below you can find the list of DEXes (Distributed Exchanges) supported at this moment.
 
@@ -142,9 +143,8 @@ In addition to the protocols listed above, we will also automatically detect **a
 
 ### **Request new integrations:**
 
-****[**https://feedback.walletnow.net/**](https://feedback.walletnow.net)****
+[**https://feedback.walletnow.net/**](https://feedback.walletnow.net)
 
 Would you like to request support for a new protocol? You can open a request on the link above. If you are the owner/leader of a protocol and you can provide technical details about the integration, ping **@Willy\_Now** on Telegram as it will greatly speed-up the process, otherwise it will be put in a queue for prioritization.
 
 ##
-
