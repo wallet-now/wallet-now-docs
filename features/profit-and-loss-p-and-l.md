@@ -12,7 +12,7 @@ All currency codes are supported for the P\&L calculation:
 
 After setting the invested capital, you should see your P\&L on the summary:
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../.gitbook/assets/image (75) (1).png>)
 
 ### Feature Availability
 

@@ -10,9 +10,12 @@ If you decide to advertise with us, you will receive a link to a real-time dashb
 
 Our ads are served directly from our CDN and don't use any off-the-shelf ads platform, which means most user sessions see them, even in the presence of ad blockers. During the booked period you can also replace your banners at no additional costs by sending us the new ones.
 
-* Supported image formats: png, jpg, gif
-* Sizes: 600x200 (mobile) and 1024x140 (desktop)
+* **Supported image formats:** png, jpg, gif
+* **Dimensions:** 600x200 (mobile) and 1024x140 (desktop)
+* **Maximum file size:** 2MB (each)
 
 ## Screen shots
 
 ![](https://lh5.googleusercontent.com/v2k3wHOqAecIsqjhWXKXs9KdHNJzpluNHcN4PQNd1QIH0vhujrBuRJ5ludohtMsHCvX8-fLam9N-2C64QTiTZFw0CBY6EaZWU-r-ZJBeAB7MAEEcTFYKmjtzvUtErYsRvbBtv\_3P)![](https://lh6.googleusercontent.com/hVYtSX2ux1yRUH-z18ukwcT1wtfyLi-EtUSl1KHHrYJSDYZ8nx6rUFzWRU6zIqQKQO0n9ZFB4Ohz6IMPNjaiLe2PH53U6y649YY2VtA1734zKIpufXh8\_Tn7A8VIFL5s-1VBp3WI)![](https://lh5.googleusercontent.com/K0Qvg7lrQeF4l4OYxEtHnDJU8TOlKlY736QQKq8nDRhYf7HutJxJ147s1j0\_lhFzrQ8VHms-BlzTMLGLLVidDkVzK18MiIL6XUWHTYEowSxmGdZclbqCjC\_5hcSFuPOuqsj1clPR)![](https://lh3.googleusercontent.com/4jc5cYM-6dxTK48Wic6K6X3ckseIREjSePBmBzn1zxXZ6HXZHtCcQpr4y93HnH6yLycSM90t0l\_BQzUdo4VgED8-9C8v9z\_lxkVe\_MO26iwNBv6s2ybpsuVwLdDJ1Gshdf48ERWZ)
+
+![](<../.gitbook/assets/image (75).png>)![](<../.gitbook/assets/image (81).png>)

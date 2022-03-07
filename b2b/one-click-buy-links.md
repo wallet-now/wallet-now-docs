@@ -2,7 +2,7 @@
 
 **WalletNow Swap** allows you to create direct links to buy any token in a super-easy way, across multiple chains! You can control all aspects of the token directly on the URL. This is a great way to create "one-click buy buttons" for your token to put on your website, telegram, and everywhere else.
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (81) (1).png>)
 
 For example, here is the link to buy BUSD on BSC:
 
