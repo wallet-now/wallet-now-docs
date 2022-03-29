@@ -38,6 +38,7 @@
 * [Advertise on WalletNow](b2b/advertise-on-walletnow.md)
 * [Swap as a service](b2b/swap-as-a-service.md)
 * [One-click buy links](b2b/one-click-buy-links.md)
+* [Price Chart APIs (OHLCV)](b2b/price-chart-apis-ohlcv.md)
 
 ## Support
 
