@@ -8,7 +8,7 @@ If you want to use this feature, just configure the total amount invested on you
 
 All currency codes are supported for the P\&L calculation:
 
-![](<../.gitbook/assets/image (79) (1) (1).png>)
+![](<../.gitbook/assets/image (79) (1) (1) (1).png>)
 
 After setting the invested capital, you should see your P\&L on the summary:
 

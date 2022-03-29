@@ -30,6 +30,7 @@
 * [Profit & Loss (P\&L)](features/profit-and-loss-p-and-l.md)
 * [WalletNow Swap](features/swap/README.md)
   * [Terms of service](features/swap/terms-of-service.md)
+* [Price Charts](features/price-charts.md)
 
 ## B2B (For business) <a href="#b2b" id="b2b"></a>
 

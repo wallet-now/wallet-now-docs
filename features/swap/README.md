@@ -10,15 +10,15 @@ When you use WalletNow Swap, you will interact exclusively with our custom-built
 
 Head over to [https://walletnow.net/swap](https://walletnow.net/swap)
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 Then select the tokens you want to swap, or paste a contract address to import:
 
-![](<../../.gitbook/assets/image (81) (1) (1).png>)
+![](<../../.gitbook/assets/image (81) (1) (1) (1).png>)
 
 Once you click on "Review Swap", WalletNow will search several liquidity sources to find the best deal for your swap:
 
-![](<../../.gitbook/assets/image (76).png>)![](<../../.gitbook/assets/image (80) (1).png>)
+![](<../../.gitbook/assets/image (76).png>)![](<../../.gitbook/assets/image (80) (1) (1).png>)
 
 The first time you swap a token, you may need to enable the token for swapping on WalletNow:
 
@@ -26,7 +26,7 @@ The first time you swap a token, you may need to enable the token for swapping o
 
 Once you submit the swap transaction, you can choose to wait for the confirmation or continue the transaction in the background:
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../.gitbook/assets/image (82) (1).png>)
 
 Once the transaction is confirmed, you have successfully swapped your tokens!
 
@@ -38,7 +38,7 @@ If you are using WalletNow and would like to swap tokens directly from the main 
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-![Swap button on token dialog](<../../.gitbook/assets/image (81) (1) (1) (1).png>)
+![Swap button on token dialog](<../../.gitbook/assets/image (81) (1) (1) (1) (1).png>)
 
 This will open the token Swap dialog, where you can select the output token. It is that simple!
 

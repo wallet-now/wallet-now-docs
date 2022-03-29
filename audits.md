@@ -10,6 +10,6 @@ We have also received a **perfect 10/10 score** on their token analysis. You can
 
 We also received a perfect 100/100 security score from [MarketMove](https://app.marketmove.ai/contract-audit/0x56aa0237244c67b9a854b4efe8479cca0b105289):
 
-![MarketMove Score](<.gitbook/assets/image (80).png>)
+![MarketMove Score](<.gitbook/assets/image (80) (1).png>)
 
 If we can't do it safely, we won't do it.
