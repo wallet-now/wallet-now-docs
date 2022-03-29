@@ -6,12 +6,20 @@ You can vote on your favorite feature requests, or suggest new ideas here: [feed
 
 ## 2022
 
-### Q1 2022
+### Q2 2022 (tentative)
 
-* Launch our builtin multi-chain DEX price charting
 * Track purchase points and average price
 * Integrate more exchanges (off-chain)
 * Full cross-chain (support for all major chains)
+
+### March 2022
+
+* ✅ Multi-chain DEX price charting
+
+### February 2022
+
+* ✅ New landing page
+* ✅ More protocol partnerships
 
 ### January 2022
 
