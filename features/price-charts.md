@@ -4,7 +4,7 @@ WalletNow has a built-in multi-chain DEX price charts. This means you can see pr
 
 ![](<../.gitbook/assets/image (80).png>)
 
-![](<../.gitbook/assets/image (81).png>)![](<../.gitbook/assets/image (82).png>)
+![](<../.gitbook/assets/image (81).png>)![](<../.gitbook/assets/image (82) (1).png>)
 
 Our price charts leverage the impressive "Trading View" charts for best-in-class chart analytics. All historical price data is indexed directly from the blockchain liquidity sources for maximum reliability.
 

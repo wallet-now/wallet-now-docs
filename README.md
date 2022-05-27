@@ -23,5 +23,5 @@ You will get access to detailed information from liquidity pools (such as Imperm
 * [Export your data to Excel](features/export-data-to-csv-excel.md) for offline processing and tax filling
 * [Harvest all your pending rewards](features/harvest-rewards.md) directly from WalletNow
 
-![WalletNow main screen](<.gitbook/assets/image (40).png>)
+![WalletNow main screen](<.gitbook/assets/image (82).png>)
 

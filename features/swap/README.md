@@ -26,7 +26,7 @@ The first time you swap a token, you may need to enable the token for swapping o
 
 Once you submit the swap transaction, you can choose to wait for the confirmation or continue the transaction in the background:
 
-![](<../../.gitbook/assets/image (82) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1).png>)
 
 Once the transaction is confirmed, you have successfully swapped your tokens!
 
