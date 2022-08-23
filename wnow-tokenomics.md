@@ -19,7 +19,7 @@ description: $WNOW is our utility token
   * **Circulating Supply:** [Check it live here](https://api.walletnow.net/WNOW/circulating\_supply)
 * **Private sale:** 10% (1MM **$WNOW**). Used exclusively for marketing.
   * **Round 1:** (Sold out) 500K tokens for our early adopters and supporters, with immediate vesting.
-  * **Round 2:** (Planned) 500K tokens reserved for another future round of private sale with long-term vesting.
+  * **Round 2:** (Sold out) 500K tokens sold to a private investor partner project. 100% of the tokens where added to a liquidity pool
 * **Initial liquidity:** 5% (500K **$WNOW**)
 * **Farming:** 30% (3MM $WNOW)
 * **Project operation:** 25% (2.5MM **$WNOW**)
